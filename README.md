@@ -1,7 +1,4 @@
 # ReadMe
-
-This repository contains the source code for a multi-GPU diffusion model implementation. This code was finalized in 2023 and is no longer under active maintenance.
-
 ## Important Notice
 
 *   **Hardware Requirement:** This project is specifically designed to run on a machine with **three GPUs**. The logic relies on parallel processing across three separate devices and will not work on a single GPU setup.
