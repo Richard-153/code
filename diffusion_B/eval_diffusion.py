@@ -11,7 +11,7 @@ from models import DenoisingDiffusion, DiffusiveRestoration
 def config_get():
     parser = argparse.ArgumentParser()
     # 参数配置文件路径
-    parser.add_argument("--config", default='/root/workspace/cgh_workspace/four/diffusion_stamp_B/configs.yml', type=str, required=False, help="Path to the config file")
+    parser.add_argument("--config", default='/root/workspace/cgh_workspace/four/diffusion_B/configs.yml', type=str, required=False, help="Path to the config file")
     args = parser.parse_args()
 
     with open(os.path.join(args.config), "r") as f:
