@@ -4,8 +4,8 @@ data:
     num_workers: 0
     train_data_dir: "/root/workspace/cgh_workspace/four/dataset/ddd_abc/A/train/"  # path to directory of train data
     test_data_dir: '/root/workspace/cgh_workspace/four/dataset/ddd_abc/A/test/'  # path to directory of test data
-    test_save_dir: '/root/workspace/cgh_workspace/four/diffusion_stamp_A/results/'   # path to directory of saving restored data
-    val_save_dir: '/root/workspace/cgh_workspace/four/diffusion_stamp_A/validation/'
+    test_save_dir: '/root/workspace/cgh_workspace/four/diffusion_A/results/'   # path to directory of saving restored data
+    val_save_dir: '/root/workspace/cgh_workspace/four/diffusion_A/validation/'
     grid_r: 16
     conditional: True
 
@@ -34,7 +34,7 @@ training:
     n_iters: 2000000
     snapshot_freq: 500  # model save frequency
     validation_freq: 10000
-    resume: '/root/workspace/cgh_workspace/four/diffusion_stamp_A/pretrained_model/'  # path to pretrained model
+    resume: '/root/workspace/cgh_workspace/four/diffusion_A/pretrained_model/'  # path to pretrained model
     seed: 61  # random seed
 
 sampling:
