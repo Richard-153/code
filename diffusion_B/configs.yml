@@ -4,7 +4,7 @@ data:
     num_workers: 0
     train_data_dir: "/root/workspace/cgh_workspace/four/dataset/ddd_abc/B/train/"  # path to directory of train data
     test_data_dir: '/root/workspace/cgh_workspace/four/dataset/ddd_abc/B/test/'  # path to directory of test data
-    test_save_dir: '/root/workspace/cgh_workspace/four/diffusion__B/results/'   # path to directory of saving restored data
+    test_save_dir: '/root/workspace/cgh_workspace/four/diffusion_B/results/'   # path to directory of saving restored data
     val_save_dir: '/root/workspace/cgh_workspace/four/diffusion_B/validation/'
     grid_r: 16
     conditional: True
