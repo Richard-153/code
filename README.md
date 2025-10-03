@@ -35,9 +35,9 @@ sh test.sh
 ## Code Structure
 ```
 .
-├── diffusion_A/      # Code for Model A (handles lowest std dev data)
-├── diffusion_B/      # Code for Model B (handles middle std dev data)
-├── diffusion_C/      # Code for Model C (handles highest std dev data)
+├── diffusion_A/      # Code for Model A 
+├── diffusion_B/      # Code for Model B 
+├── diffusion_C/      # Code for Model C 
 ├── pretreatment.sh   # Script to start the training process
 ├── test.sh           # Script to start the evaluation process
 └── README.md         # This README file
