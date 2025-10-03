@@ -33,6 +33,7 @@ sh pretreatment.sh
 sh test.sh
 ```
 ## Code Structure
+```
 .
 ├── diffusion_A/      # Code for Model A (handles lowest std dev data)
 ├── diffusion_B/      # Code for Model B (handles middle std dev data)
@@ -40,6 +41,7 @@ sh test.sh
 ├── pretreatment.sh   # Script to start the training process
 ├── test.sh           # Script to start the evaluation process
 └── README.md         # This README file
+```
 
 ## Contact
 
