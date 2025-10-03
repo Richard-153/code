@@ -1,0 +1,3224 @@
+=> using device: cuda
+=> creating denoising diffusion model
+=> current epoch:  0
+step: 10, loss: 8935.958008, time consumption: 0.886492
+step: 20, loss: 5833.135742, time consumption: 0.455338
+step: 30, loss: 3634.718750, time consumption: 0.310707
+=> current epoch:  1
+step: 40, loss: 2316.708008, time consumption: 0.020553
+step: 50, loss: 2361.023926, time consumption: 0.021341
+step: 60, loss: 1723.327515, time consumption: 0.021982
+step: 70, loss: 1403.404053, time consumption: 0.021844
+=> current epoch:  2
+step: 80, loss: 1307.872681, time consumption: 0.025241
+step: 90, loss: 1180.023315, time consumption: 0.023910
+step: 100, loss: 1156.183716, time consumption: 0.023638
+=> current epoch:  3
+step: 110, loss: 851.075684, time consumption: 0.029113
+step: 120, loss: 1006.753235, time consumption: 0.023303
+step: 130, loss: 1167.492920, time consumption: 0.023396
+step: 140, loss: 874.573486, time consumption: 0.022675
+=> current epoch:  4
+step: 150, loss: 1150.921387, time consumption: 0.021111
+step: 160, loss: 946.574036, time consumption: 0.021457
+step: 170, loss: 900.242615, time consumption: 0.021536
+step: 180, loss: 581.179565, time consumption: 0.021272
+=> current epoch:  5
+step: 190, loss: 733.557739, time consumption: 0.021809
+step: 200, loss: 631.034302, time consumption: 0.021368
+step: 210, loss: 845.268066, time consumption: 0.021415
+=> current epoch:  6
+step: 220, loss: 822.120117, time consumption: 0.024143
+step: 230, loss: 718.178955, time consumption: 0.023553
+step: 240, loss: 503.553741, time consumption: 0.022641
+step: 250, loss: 664.617432, time consumption: 0.022341
+=> current epoch:  7
+step: 260, loss: 597.497070, time consumption: 0.020751
+step: 270, loss: 461.867584, time consumption: 0.020711
+step: 280, loss: 469.360107, time consumption: 0.021433
+=> current epoch:  8
+step: 290, loss: 433.808899, time consumption: 0.027926
+step: 300, loss: 555.140076, time consumption: 0.022980
+step: 310, loss: 519.085693, time consumption: 0.022373
+step: 320, loss: 476.858398, time consumption: 0.022041
+=> current epoch:  9
+step: 330, loss: 397.908325, time consumption: 0.023283
+step: 340, loss: 397.758331, time consumption: 0.023714
+step: 350, loss: 575.867615, time consumption: 0.022813
+step: 360, loss: 779.219788, time consumption: 0.023006
+=> current epoch:  10
+step: 370, loss: 466.645325, time consumption: 0.020811
+step: 380, loss: 311.106873, time consumption: 0.020839
+step: 390, loss: 327.473328, time consumption: 0.021272
+=> current epoch:  11
+step: 400, loss: 346.156647, time consumption: 0.021140
+step: 410, loss: 303.940430, time consumption: 0.020838
+step: 420, loss: 361.765259, time consumption: 0.021763
+step: 430, loss: 383.927002, time consumption: 0.022250
+=> current epoch:  12
+step: 440, loss: 409.150421, time consumption: 0.021374
+step: 450, loss: 636.404907, time consumption: 0.020912
+step: 460, loss: 235.183411, time consumption: 0.021075
+=> current epoch:  13
+step: 470, loss: 584.913574, time consumption: 0.020640
+step: 480, loss: 342.074097, time consumption: 0.022858
+step: 490, loss: 316.519836, time consumption: 0.022527
+step: 500, loss: 477.943481, time consumption: 0.022461
+=> current epoch:  14
+step: 510, loss: 244.961273, time consumption: 0.021512
+step: 520, loss: 257.603241, time consumption: 0.023082
+step: 530, loss: 308.658997, time consumption: 0.023501
+step: 540, loss: 253.577820, time consumption: 0.024171
+=> current epoch:  15
+step: 550, loss: 206.971512, time consumption: 0.020825
+step: 560, loss: 192.359802, time consumption: 0.020984
+step: 570, loss: 350.180267, time consumption: 0.021748
+=> current epoch:  16
+step: 580, loss: 253.116089, time consumption: 0.021706
+step: 590, loss: 280.345337, time consumption: 0.022098
+step: 600, loss: 195.649063, time consumption: 0.021632
+step: 610, loss: 343.299744, time consumption: 0.022324
+=> current epoch:  17
+step: 620, loss: 258.276306, time consumption: 0.021670
+step: 630, loss: 221.794342, time consumption: 0.022150
+step: 640, loss: 279.406891, time consumption: 0.021968
+=> current epoch:  18
+step: 650, loss: 227.437607, time consumption: 0.022179
+step: 660, loss: 186.920074, time consumption: 0.023385
+step: 670, loss: 259.221680, time consumption: 0.022848
+step: 680, loss: 231.771179, time consumption: 0.022599
+=> current epoch:  19
+step: 690, loss: 231.008774, time consumption: 0.021808
+step: 700, loss: 213.060974, time consumption: 0.021627
+step: 710, loss: 163.888855, time consumption: 0.021862
+step: 720, loss: 327.453979, time consumption: 0.021954
+=> current epoch:  20
+step: 730, loss: 440.952881, time consumption: 0.024541
+step: 740, loss: 195.028961, time consumption: 0.023454
+step: 750, loss: 209.391739, time consumption: 0.022651
+=> current epoch:  21
+step: 760, loss: 350.039185, time consumption: 0.021350
+step: 770, loss: 275.398987, time consumption: 0.021110
+step: 780, loss: 185.641571, time consumption: 0.021460
+step: 790, loss: 212.783813, time consumption: 0.022844
+=> current epoch:  22
+step: 800, loss: 166.758118, time consumption: 0.022389
+step: 810, loss: 263.578766, time consumption: 0.021465
+step: 820, loss: 166.023987, time consumption: 0.021833
+=> current epoch:  23
+step: 830, loss: 160.420044, time consumption: 0.021639
+step: 840, loss: 120.130402, time consumption: 0.023465
+step: 850, loss: 179.444000, time consumption: 0.022407
+step: 860, loss: 168.939407, time consumption: 0.022258
+=> current epoch:  24
+step: 870, loss: 155.023346, time consumption: 0.021057
+step: 880, loss: 263.288452, time consumption: 0.021068
+step: 890, loss: 139.021912, time consumption: 0.021670
+step: 900, loss: 167.928497, time consumption: 0.021557
+=> current epoch:  25
+step: 910, loss: 134.851868, time consumption: 0.022897
+step: 920, loss: 180.605530, time consumption: 0.023269
+step: 930, loss: 191.962891, time consumption: 0.024855
+=> current epoch:  26
+step: 940, loss: 159.738190, time consumption: 0.021077
+step: 950, loss: 249.612427, time consumption: 0.021250
+step: 960, loss: 170.150909, time consumption: 0.021739
+step: 970, loss: 158.425537, time consumption: 0.021794
+=> current epoch:  27
+step: 980, loss: 186.363266, time consumption: 0.020518
+step: 990, loss: 174.754471, time consumption: 0.022757
+step: 1000, loss: 158.424652, time consumption: 0.022233
+=> current epoch:  28
+step: 1010, loss: 171.414642, time consumption: 0.021160
+step: 1020, loss: 343.045197, time consumption: 0.022117
+step: 1030, loss: 277.568665, time consumption: 0.021728
+step: 1040, loss: 210.932922, time consumption: 0.021857
+=> current epoch:  29
+step: 1050, loss: 180.537582, time consumption: 0.023671
+step: 1060, loss: 203.952789, time consumption: 0.023438
+step: 1070, loss: 101.832817, time consumption: 0.023179
+step: 1080, loss: 180.682816, time consumption: 0.022732
+=> current epoch:  30
+step: 1090, loss: 200.319489, time consumption: 0.023807
+step: 1100, loss: 156.395081, time consumption: 0.024334
+step: 1110, loss: 91.309898, time consumption: 0.023901
+=> current epoch:  31
+step: 1120, loss: 329.465363, time consumption: 0.020836
+step: 1130, loss: 262.482056, time consumption: 0.022848
+step: 1140, loss: 192.356720, time consumption: 0.022193
+step: 1150, loss: 182.911957, time consumption: 0.022024
+=> current epoch:  32
+step: 1160, loss: 143.267578, time consumption: 0.021702
+step: 1170, loss: 197.779434, time consumption: 0.022184
+step: 1180, loss: 193.227463, time consumption: 0.022396
+=> current epoch:  33
+step: 1190, loss: 119.626266, time consumption: 0.029732
+step: 1200, loss: 203.030823, time consumption: 0.022340
+step: 1210, loss: 119.017769, time consumption: 0.021647
+step: 1220, loss: 264.458069, time consumption: 0.022485
+=> current epoch:  34
+step: 1230, loss: 98.936996, time consumption: 0.024912
+step: 1240, loss: 167.798401, time consumption: 0.025483
+step: 1250, loss: 174.580017, time consumption: 0.023703
+step: 1260, loss: 143.987427, time consumption: 0.023084
+=> current epoch:  35
+step: 1270, loss: 123.488327, time consumption: 0.021628
+step: 1280, loss: 268.587769, time consumption: 0.021887
+step: 1290, loss: 318.254944, time consumption: 0.021622
+=> current epoch:  36
+step: 1300, loss: 89.857651, time consumption: 0.020985
+step: 1310, loss: 141.017975, time consumption: 0.022378
+step: 1320, loss: 107.389183, time consumption: 0.021847
+step: 1330, loss: 172.264038, time consumption: 0.022332
+=> current epoch:  37
+step: 1340, loss: 185.700836, time consumption: 0.022287
+step: 1350, loss: 138.306381, time consumption: 0.022264
+step: 1360, loss: 181.356918, time consumption: 0.023135
+=> current epoch:  38
+step: 1370, loss: 166.870392, time consumption: 0.023707
+step: 1380, loss: 287.260254, time consumption: 0.025585
+step: 1390, loss: 119.684128, time consumption: 0.023880
+step: 1400, loss: 138.493042, time consumption: 0.023283
+=> current epoch:  39
+step: 1410, loss: 120.522240, time consumption: 0.026214
+step: 1420, loss: 169.215012, time consumption: 0.025842
+step: 1430, loss: 256.612732, time consumption: 0.024948
+step: 1440, loss: 127.031296, time consumption: 0.023995
+=> current epoch:  40
+step: 1450, loss: 130.090958, time consumption: 0.021192
+step: 1460, loss: 118.239975, time consumption: 0.021067
+step: 1470, loss: 195.344360, time consumption: 0.021072
+=> current epoch:  41
+step: 1480, loss: 187.390793, time consumption: 0.021713
+step: 1490, loss: 133.238708, time consumption: 0.023023
+step: 1500, loss: 119.492218, time consumption: 0.022258
+step: 1510, loss: 158.028381, time consumption: 0.139741
+=> current epoch:  42
+step: 1520, loss: 102.868996, time consumption: 0.021744
+step: 1530, loss: 99.538437, time consumption: 0.023823
+step: 1540, loss: 84.503433, time consumption: 0.023532
+=> current epoch:  43
+step: 1550, loss: 65.242722, time consumption: 0.021255
+step: 1560, loss: 226.175323, time consumption: 0.026064
+step: 1570, loss: 158.588043, time consumption: 0.023803
+step: 1580, loss: 93.774689, time consumption: 0.024585
+=> current epoch:  44
+step: 1590, loss: 175.862518, time consumption: 0.022701
+step: 1600, loss: 108.791809, time consumption: 0.023118
+step: 1610, loss: 160.823090, time consumption: 0.022132
+step: 1620, loss: 121.614616, time consumption: 0.022478
+=> current epoch:  45
+step: 1630, loss: 105.799011, time consumption: 0.024634
+step: 1640, loss: 208.041351, time consumption: 0.022993
+step: 1650, loss: 189.491714, time consumption: 0.022675
+=> current epoch:  46
+step: 1660, loss: 96.787506, time consumption: 0.021306
+step: 1670, loss: 117.310715, time consumption: 0.021656
+step: 1680, loss: 133.826492, time consumption: 0.021409
+step: 1690, loss: 187.588165, time consumption: 0.021269
+=> current epoch:  47
+step: 1700, loss: 145.747589, time consumption: 0.021464
+step: 1710, loss: 106.838753, time consumption: 0.021885
+step: 1720, loss: 108.766518, time consumption: 0.022003
+=> current epoch:  48
+step: 1730, loss: 116.076599, time consumption: 0.024267
+step: 1740, loss: 88.792000, time consumption: 0.021585
+step: 1750, loss: 79.843300, time consumption: 0.021297
+step: 1760, loss: 92.501541, time consumption: 0.021179
+=> current epoch:  49
+step: 1770, loss: 72.203888, time consumption: 0.020702
+step: 1780, loss: 111.480804, time consumption: 0.021438
+step: 1790, loss: 94.508621, time consumption: 0.022217
+step: 1800, loss: 128.969421, time consumption: 0.022026
+=> current epoch:  50
+step: 1810, loss: 170.190842, time consumption: 0.020755
+step: 1820, loss: 63.328548, time consumption: 0.022862
+step: 1830, loss: 112.335480, time consumption: 0.022865
+=> current epoch:  51
+step: 1840, loss: 140.311432, time consumption: 0.020394
+step: 1850, loss: 72.699730, time consumption: 0.020786
+step: 1860, loss: 76.606598, time consumption: 0.021788
+step: 1870, loss: 63.677952, time consumption: 0.021699
+=> current epoch:  52
+step: 1880, loss: 173.075012, time consumption: 0.023638
+step: 1890, loss: 123.029869, time consumption: 0.022924
+step: 1900, loss: 126.710571, time consumption: 0.022535
+=> current epoch:  53
+step: 1910, loss: 165.883850, time consumption: 0.034395
+step: 1920, loss: 144.648392, time consumption: 0.023826
+step: 1930, loss: 125.667252, time consumption: 0.023694
+step: 1940, loss: 137.031525, time consumption: 0.022912
+=> current epoch:  54
+step: 1950, loss: 338.391479, time consumption: 0.020678
+step: 1960, loss: 77.303261, time consumption: 0.021358
+step: 1970, loss: 85.032860, time consumption: 0.021450
+step: 1980, loss: 112.398705, time consumption: 0.021307
+=> current epoch:  55
+step: 1990, loss: 130.877045, time consumption: 0.021678
+step: 2000, loss: 116.130280, time consumption: 0.021342
+step: 2010, loss: 94.856827, time consumption: 0.156267
+=> current epoch:  56
+step: 2020, loss: 80.767937, time consumption: 0.021163
+step: 2030, loss: 83.210670, time consumption: 0.022219
+step: 2040, loss: 110.775635, time consumption: 0.022138
+step: 2050, loss: 55.874554, time consumption: 0.022153
+=> current epoch:  57
+step: 2060, loss: 70.725952, time consumption: 0.022756
+step: 2070, loss: 77.324127, time consumption: 0.021880
+step: 2080, loss: 88.624695, time consumption: 0.021857
+=> current epoch:  58
+step: 2090, loss: 99.430847, time consumption: 0.021658
+step: 2100, loss: 78.840309, time consumption: 0.021171
+step: 2110, loss: 149.928024, time consumption: 0.021407
+step: 2120, loss: 130.502151, time consumption: 0.021729
+=> current epoch:  59
+step: 2130, loss: 77.326401, time consumption: 0.023048
+step: 2140, loss: 183.650497, time consumption: 0.023459
+step: 2150, loss: 197.372620, time consumption: 0.023390
+step: 2160, loss: 158.655670, time consumption: 0.023456
+=> current epoch:  60
+step: 2170, loss: 59.125526, time consumption: 0.021029
+step: 2180, loss: 61.107857, time consumption: 0.021153
+step: 2190, loss: 101.584717, time consumption: 0.021098
+=> current epoch:  61
+step: 2200, loss: 86.677139, time consumption: 0.021323
+step: 2210, loss: 79.084305, time consumption: 0.021724
+step: 2220, loss: 142.680038, time consumption: 0.021401
+step: 2230, loss: 108.517616, time consumption: 0.021320
+=> current epoch:  62
+step: 2240, loss: 84.093163, time consumption: 0.021206
+step: 2250, loss: 227.960526, time consumption: 0.021585
+step: 2260, loss: 167.449036, time consumption: 0.021414
+=> current epoch:  63
+step: 2270, loss: 118.169357, time consumption: 0.020794
+step: 2280, loss: 127.374657, time consumption: 0.024598
+step: 2290, loss: 126.131035, time consumption: 0.023153
+step: 2300, loss: 99.186417, time consumption: 0.022934
+=> current epoch:  64
+step: 2310, loss: 164.361298, time consumption: 0.020854
+step: 2320, loss: 259.933380, time consumption: 0.021029
+step: 2330, loss: 130.897842, time consumption: 0.021953
+step: 2340, loss: 79.340546, time consumption: 0.022526
+=> current epoch:  65
+step: 2350, loss: 120.699921, time consumption: 0.022761
+step: 2360, loss: 86.206650, time consumption: 0.021849
+step: 2370, loss: 151.290787, time consumption: 0.021640
+=> current epoch:  66
+step: 2380, loss: 101.133171, time consumption: 0.021907
+step: 2390, loss: 121.717667, time consumption: 0.022344
+step: 2400, loss: 78.786911, time consumption: 0.022139
+step: 2410, loss: 77.027077, time consumption: 0.022322
+=> current epoch:  67
+step: 2420, loss: 98.607773, time consumption: 0.022145
+step: 2430, loss: 143.201385, time consumption: 0.023236
+step: 2440, loss: 91.671356, time consumption: 0.023862
+=> current epoch:  68
+step: 2450, loss: 124.632477, time consumption: 0.023370
+step: 2460, loss: 129.833969, time consumption: 0.022355
+step: 2470, loss: 72.414963, time consumption: 0.022446
+step: 2480, loss: 83.112244, time consumption: 0.022098
+=> current epoch:  69
+step: 2490, loss: 108.612961, time consumption: 0.020778
+step: 2500, loss: 62.701336, time consumption: 0.022156
+step: 2510, loss: 128.198318, time consumption: 0.169338
+step: 2520, loss: 53.960308, time consumption: 0.128074
+=> current epoch:  70
+step: 2530, loss: 96.154396, time consumption: 0.022207
+step: 2540, loss: 194.318649, time consumption: 0.021944
+step: 2550, loss: 146.574554, time consumption: 0.022668
+=> current epoch:  71
+step: 2560, loss: 143.552811, time consumption: 0.020774
+step: 2570, loss: 81.961372, time consumption: 0.021161
+step: 2580, loss: 83.797668, time consumption: 0.021314
+step: 2590, loss: 73.184006, time consumption: 0.022384
+=> current epoch:  72
+step: 2600, loss: 91.451180, time consumption: 0.024381
+step: 2610, loss: 67.373489, time consumption: 0.022745
+step: 2620, loss: 135.843048, time consumption: 0.022447
+=> current epoch:  73
+step: 2630, loss: 80.797684, time consumption: 0.021170
+step: 2640, loss: 73.381836, time consumption: 0.021864
+step: 2650, loss: 108.598518, time consumption: 0.022733
+step: 2660, loss: 55.001358, time consumption: 0.022304
+=> current epoch:  74
+step: 2670, loss: 112.387802, time consumption: 0.024185
+step: 2680, loss: 88.725250, time consumption: 0.023266
+step: 2690, loss: 90.695175, time consumption: 0.022947
+step: 2700, loss: 88.315437, time consumption: 0.022490
+=> current epoch:  75
+step: 2710, loss: 212.244385, time consumption: 0.022599
+step: 2720, loss: 44.269958, time consumption: 0.022101
+step: 2730, loss: 47.051491, time consumption: 0.021868
+=> current epoch:  76
+step: 2740, loss: 96.652405, time consumption: 0.024696
+step: 2750, loss: 72.621704, time consumption: 0.024173
+step: 2760, loss: 185.387451, time consumption: 0.023266
+step: 2770, loss: 92.477783, time consumption: 0.022740
+=> current epoch:  77
+step: 2780, loss: 100.788811, time consumption: 0.021695
+step: 2790, loss: 87.913345, time consumption: 0.021229
+step: 2800, loss: 221.769379, time consumption: 0.021097
+=> current epoch:  78
+step: 2810, loss: 114.440025, time consumption: 0.021893
+step: 2820, loss: 45.810749, time consumption: 0.021909
+step: 2830, loss: 161.109711, time consumption: 0.022142
+step: 2840, loss: 116.468414, time consumption: 0.023744
+=> current epoch:  79
+step: 2850, loss: 83.410019, time consumption: 0.021161
+step: 2860, loss: 117.456352, time consumption: 0.021289
+step: 2870, loss: 68.896851, time consumption: 0.021283
+step: 2880, loss: 78.947075, time consumption: 0.021287
+=> current epoch:  80
+step: 2890, loss: 77.626816, time consumption: 0.021373
+step: 2900, loss: 128.271271, time consumption: 0.021103
+step: 2910, loss: 159.069183, time consumption: 0.021073
+=> current epoch:  81
+step: 2920, loss: 105.115631, time consumption: 0.026838
+step: 2930, loss: 108.132454, time consumption: 0.025898
+step: 2940, loss: 79.720566, time consumption: 0.024534
+step: 2950, loss: 102.007370, time consumption: 0.024061
+=> current epoch:  82
+step: 2960, loss: 203.000381, time consumption: 0.024283
+step: 2970, loss: 139.078796, time consumption: 0.023058
+step: 2980, loss: 71.004601, time consumption: 0.022929
+=> current epoch:  83
+step: 2990, loss: 54.051895, time consumption: 0.022064
+step: 3000, loss: 124.762665, time consumption: 0.021268
+step: 3010, loss: 59.208763, time consumption: 0.193900
+step: 3020, loss: 48.153641, time consumption: 0.139934
+=> current epoch:  84
+step: 3030, loss: 84.897331, time consumption: 0.022126
+step: 3040, loss: 64.120407, time consumption: 0.023790
+step: 3050, loss: 63.388725, time consumption: 0.023257
+step: 3060, loss: 112.909500, time consumption: 0.022939
+=> current epoch:  85
+step: 3070, loss: 82.829346, time consumption: 0.022523
+step: 3080, loss: 105.183380, time consumption: 0.022645
+step: 3090, loss: 72.387260, time consumption: 0.022693
+=> current epoch:  86
+step: 3100, loss: 81.557137, time consumption: 0.021710
+step: 3110, loss: 154.455994, time consumption: 0.021400
+step: 3120, loss: 72.561432, time consumption: 0.021250
+step: 3130, loss: 154.538177, time consumption: 0.023060
+=> current epoch:  87
+step: 3140, loss: 83.843445, time consumption: 0.025522
+step: 3150, loss: 96.310028, time consumption: 0.023842
+step: 3160, loss: 45.405289, time consumption: 0.023106
+=> current epoch:  88
+step: 3170, loss: 81.658440, time consumption: 0.022201
+step: 3180, loss: 197.274506, time consumption: 0.022132
+step: 3190, loss: 119.211563, time consumption: 0.023890
+step: 3200, loss: 83.477402, time consumption: 0.024105
+=> current epoch:  89
+step: 3210, loss: 107.717865, time consumption: 0.023825
+step: 3220, loss: 69.861526, time consumption: 0.022146
+step: 3230, loss: 60.518753, time consumption: 0.021766
+step: 3240, loss: 53.481148, time consumption: 0.022428
+=> current epoch:  90
+step: 3250, loss: 58.122986, time consumption: 0.022041
+step: 3260, loss: 70.016617, time consumption: 0.021474
+step: 3270, loss: 137.870010, time consumption: 0.021364
+=> current epoch:  91
+step: 3280, loss: 58.459114, time consumption: 0.021541
+step: 3290, loss: 87.640907, time consumption: 0.021903
+step: 3300, loss: 123.020599, time consumption: 0.022182
+step: 3310, loss: 118.209969, time consumption: 0.022025
+=> current epoch:  92
+step: 3320, loss: 118.736786, time consumption: 0.024582
+step: 3330, loss: 63.591217, time consumption: 0.024399
+step: 3340, loss: 108.207520, time consumption: 0.023529
+=> current epoch:  93
+step: 3350, loss: 65.205864, time consumption: 0.021740
+step: 3360, loss: 98.713165, time consumption: 0.022751
+step: 3370, loss: 36.937592, time consumption: 0.022950
+step: 3380, loss: 95.735901, time consumption: 0.023284
+=> current epoch:  94
+step: 3390, loss: 91.747787, time consumption: 0.025577
+step: 3400, loss: 104.926926, time consumption: 0.024707
+step: 3410, loss: 78.491470, time consumption: 0.023843
+step: 3420, loss: 89.647354, time consumption: 0.024178
+=> current epoch:  95
+step: 3430, loss: 79.405960, time consumption: 0.022609
+step: 3440, loss: 154.076721, time consumption: 0.022255
+step: 3450, loss: 61.738853, time consumption: 0.022488
+=> current epoch:  96
+step: 3460, loss: 58.192448, time consumption: 0.023996
+step: 3470, loss: 114.431236, time consumption: 0.021638
+step: 3480, loss: 83.599388, time consumption: 0.021708
+step: 3490, loss: 54.996246, time consumption: 0.022222
+=> current epoch:  97
+step: 3500, loss: 76.434448, time consumption: 0.021450
+step: 3510, loss: 160.812164, time consumption: 0.242326
+step: 3520, loss: 115.939926, time consumption: 0.164107
+=> current epoch:  98
+step: 3530, loss: 61.923996, time consumption: 0.029965
+step: 3540, loss: 73.689758, time consumption: 0.022233
+step: 3550, loss: 83.497231, time consumption: 0.021903
+step: 3560, loss: 111.640152, time consumption: 0.021838
+=> current epoch:  99
+step: 3570, loss: 82.422684, time consumption: 0.029335
+step: 3580, loss: 58.976341, time consumption: 0.023950
+step: 3590, loss: 57.908199, time consumption: 0.023166
+step: 3600, loss: 40.681015, time consumption: 0.022643
+=> current epoch:  100
+step: 3610, loss: 56.236294, time consumption: 0.021224
+step: 3620, loss: 87.669403, time consumption: 0.021151
+step: 3630, loss: 109.614456, time consumption: 0.021425
+=> current epoch:  101
+step: 3640, loss: 124.614014, time consumption: 0.021098
+step: 3650, loss: 65.140610, time consumption: 0.021126
+step: 3660, loss: 65.999451, time consumption: 0.021501
+step: 3670, loss: 96.930809, time consumption: 0.021329
+=> current epoch:  102
+step: 3680, loss: 41.882141, time consumption: 0.021123
+step: 3690, loss: 65.907700, time consumption: 0.021225
+step: 3700, loss: 161.685944, time consumption: 0.021216
+=> current epoch:  103
+step: 3710, loss: 88.752609, time consumption: 0.028028
+step: 3720, loss: 145.054733, time consumption: 0.022101
+step: 3730, loss: 43.252518, time consumption: 0.021621
+step: 3740, loss: 78.862061, time consumption: 0.021599
+=> current epoch:  104
+step: 3750, loss: 69.812317, time consumption: 0.025017
+step: 3760, loss: 61.291069, time consumption: 0.023787
+step: 3770, loss: 81.669586, time consumption: 0.023338
+step: 3780, loss: 54.233665, time consumption: 0.023109
+=> current epoch:  105
+step: 3790, loss: 40.941746, time consumption: 0.021684
+step: 3800, loss: 65.476562, time consumption: 0.021868
+step: 3810, loss: 48.912224, time consumption: 0.022760
+=> current epoch:  106
+step: 3820, loss: 41.912361, time consumption: 0.023881
+step: 3830, loss: 61.050007, time consumption: 0.023308
+step: 3840, loss: 66.060303, time consumption: 0.022260
+step: 3850, loss: 71.062637, time consumption: 0.023107
+=> current epoch:  107
+step: 3860, loss: 74.454269, time consumption: 0.021859
+step: 3870, loss: 75.102600, time consumption: 0.023487
+step: 3880, loss: 42.131721, time consumption: 0.022450
+=> current epoch:  108
+step: 3890, loss: 60.983040, time consumption: 0.021795
+step: 3900, loss: 71.157684, time consumption: 0.023107
+step: 3910, loss: 190.642365, time consumption: 0.022975
+step: 3920, loss: 61.555508, time consumption: 0.022915
+=> current epoch:  109
+step: 3930, loss: 122.356621, time consumption: 0.021167
+step: 3940, loss: 73.061020, time consumption: 0.021032
+step: 3950, loss: 81.090210, time consumption: 0.021006
+step: 3960, loss: 54.952026, time consumption: 0.020930
+=> current epoch:  110
+step: 3970, loss: 103.924774, time consumption: 0.023447
+step: 3980, loss: 102.939621, time consumption: 0.022383
+step: 3990, loss: 55.193420, time consumption: 0.021872
+=> current epoch:  111
+step: 4000, loss: 149.940384, time consumption: 0.024360
+step: 4010, loss: 131.759338, time consumption: 0.308537
+step: 4020, loss: 77.432861, time consumption: 0.188885
+step: 4030, loss: 70.320816, time consumption: 0.139932
+=> current epoch:  112
+step: 4040, loss: 84.718788, time consumption: 0.021424
+step: 4050, loss: 67.112030, time consumption: 0.021878
+step: 4060, loss: 174.238068, time consumption: 0.022446
+=> current epoch:  113
+step: 4070, loss: 85.596909, time consumption: 0.024506
+step: 4080, loss: 55.474854, time consumption: 0.024132
+step: 4090, loss: 79.873543, time consumption: 0.022815
+step: 4100, loss: 38.236210, time consumption: 0.022583
+=> current epoch:  114
+step: 4110, loss: 115.381195, time consumption: 0.021173
+step: 4120, loss: 51.678009, time consumption: 0.021793
+step: 4130, loss: 65.002419, time consumption: 0.021259
+step: 4140, loss: 90.699768, time consumption: 0.021097
+=> current epoch:  115
+step: 4150, loss: 78.700264, time consumption: 0.022445
+step: 4160, loss: 58.602413, time consumption: 0.021893
+step: 4170, loss: 67.092880, time consumption: 0.021615
+=> current epoch:  116
+step: 4180, loss: 59.096638, time consumption: 0.021583
+step: 4190, loss: 94.011780, time consumption: 0.022004
+step: 4200, loss: 68.180649, time consumption: 0.023260
+step: 4210, loss: 41.140091, time consumption: 0.023990
+=> current epoch:  117
+step: 4220, loss: 34.003586, time consumption: 0.022355
+step: 4230, loss: 102.567322, time consumption: 0.021530
+step: 4240, loss: 43.212597, time consumption: 0.021582
+=> current epoch:  118
+step: 4250, loss: 162.834106, time consumption: 0.021080
+step: 4260, loss: 129.239594, time consumption: 0.021877
+step: 4270, loss: 110.303558, time consumption: 0.021861
+step: 4280, loss: 54.993523, time consumption: 0.022251
+=> current epoch:  119
+step: 4290, loss: 135.485046, time consumption: 0.020776
+step: 4300, loss: 67.557457, time consumption: 0.022334
+step: 4310, loss: 81.875664, time consumption: 0.021752
+step: 4320, loss: 43.627666, time consumption: 0.021424
+=> current epoch:  120
+step: 4330, loss: 62.853104, time consumption: 0.022525
+step: 4340, loss: 109.098282, time consumption: 0.021538
+step: 4350, loss: 76.422165, time consumption: 0.021560
+=> current epoch:  121
+step: 4360, loss: 78.549957, time consumption: 0.020620
+step: 4370, loss: 73.809616, time consumption: 0.021599
+step: 4380, loss: 37.262222, time consumption: 0.022473
+step: 4390, loss: 36.773872, time consumption: 0.022220
+=> current epoch:  122
+step: 4400, loss: 62.036461, time consumption: 0.020458
+step: 4410, loss: 111.324799, time consumption: 0.021165
+step: 4420, loss: 88.051071, time consumption: 0.021547
+=> current epoch:  123
+step: 4430, loss: 44.483208, time consumption: 0.020471
+step: 4440, loss: 59.081783, time consumption: 0.022276
+step: 4450, loss: 40.380161, time consumption: 0.022532
+step: 4460, loss: 86.122688, time consumption: 0.022425
+=> current epoch:  124
+step: 4470, loss: 148.457001, time consumption: 0.021057
+step: 4480, loss: 151.316681, time consumption: 0.020826
+step: 4490, loss: 99.079140, time consumption: 0.021407
+step: 4500, loss: 80.597549, time consumption: 0.022048
+=> current epoch:  125
+step: 4510, loss: 34.316837, time consumption: 0.024273
+step: 4520, loss: 42.798752, time consumption: 0.022448
+step: 4530, loss: 54.350128, time consumption: 0.022079
+=> current epoch:  126
+step: 4540, loss: 33.602146, time consumption: 0.020745
+step: 4550, loss: 115.571114, time consumption: 0.021295
+step: 4560, loss: 124.484207, time consumption: 0.021151
+step: 4570, loss: 37.911804, time consumption: 0.021355
+=> current epoch:  127
+step: 4580, loss: 76.837662, time consumption: 0.021954
+step: 4590, loss: 49.657097, time consumption: 0.021859
+step: 4600, loss: 51.556316, time consumption: 0.021348
+=> current epoch:  128
+step: 4610, loss: 95.037628, time consumption: 0.020812
+step: 4620, loss: 58.355747, time consumption: 0.021596
+step: 4630, loss: 71.713684, time consumption: 0.023566
+step: 4640, loss: 147.791992, time consumption: 0.023072
+=> current epoch:  129
+step: 4650, loss: 26.506939, time consumption: 0.026633
+step: 4660, loss: 88.577240, time consumption: 0.023126
+step: 4670, loss: 91.267487, time consumption: 0.023916
+step: 4680, loss: 122.057266, time consumption: 0.023262
+=> current epoch:  130
+step: 4690, loss: 54.160328, time consumption: 0.021155
+step: 4700, loss: 55.798000, time consumption: 0.021303
+step: 4710, loss: 69.143082, time consumption: 0.021091
+=> current epoch:  131
+step: 4720, loss: 81.741722, time consumption: 0.024481
+step: 4730, loss: 44.070610, time consumption: 0.024128
+step: 4740, loss: 84.753235, time consumption: 0.023133
+step: 4750, loss: 150.151672, time consumption: 0.023299
+=> current epoch:  132
+step: 4760, loss: 48.881390, time consumption: 0.025023
+step: 4770, loss: 54.632080, time consumption: 0.025810
+step: 4780, loss: 54.884979, time consumption: 0.024607
+=> current epoch:  133
+step: 4790, loss: 82.183754, time consumption: 0.021097
+step: 4800, loss: 80.092270, time consumption: 0.020915
+step: 4810, loss: 41.644920, time consumption: 0.020902
+step: 4820, loss: 117.925339, time consumption: 0.021066
+=> current epoch:  134
+step: 4830, loss: 116.607056, time consumption: 0.020928
+step: 4840, loss: 43.859749, time consumption: 0.021564
+step: 4850, loss: 103.444923, time consumption: 0.021262
+step: 4860, loss: 138.874573, time consumption: 0.021166
+=> current epoch:  135
+step: 4870, loss: 72.757660, time consumption: 0.021260
+step: 4880, loss: 71.174850, time consumption: 0.020827
+step: 4890, loss: 35.983849, time consumption: 0.021237
+=> current epoch:  136
+step: 4900, loss: 93.363091, time consumption: 0.022002
+step: 4910, loss: 86.904106, time consumption: 0.022401
+step: 4920, loss: 46.675140, time consumption: 0.022465
+step: 4930, loss: 45.545921, time consumption: 0.022895
+=> current epoch:  137
+step: 4940, loss: 100.401855, time consumption: 0.022180
+step: 4950, loss: 57.796944, time consumption: 0.022379
+step: 4960, loss: 27.231390, time consumption: 0.022459
+=> current epoch:  138
+step: 4970, loss: 76.898727, time consumption: 0.021507
+step: 4980, loss: 82.842377, time consumption: 0.020717
+step: 4990, loss: 42.907879, time consumption: 0.022008
+step: 5000, loss: 65.051476, time consumption: 0.022280
+=> current epoch:  139
+step: 5010, loss: 49.222939, time consumption: 0.021266
+step: 5020, loss: 40.225677, time consumption: 0.021113
+step: 5030, loss: 36.001720, time consumption: 0.020993
+step: 5040, loss: 66.926163, time consumption: 0.021471
+=> current epoch:  140
+step: 5050, loss: 76.526459, time consumption: 0.021089
+step: 5060, loss: 46.718983, time consumption: 0.021053
+step: 5070, loss: 44.491684, time consumption: 0.021421
+=> current epoch:  141
+step: 5080, loss: 40.248497, time consumption: 0.021090
+step: 5090, loss: 91.771790, time consumption: 0.023279
+step: 5100, loss: 81.419846, time consumption: 0.022634
+step: 5110, loss: 23.865387, time consumption: 0.022203
+=> current epoch:  142
+step: 5120, loss: 68.554100, time consumption: 0.023028
+step: 5130, loss: 99.104027, time consumption: 0.023473
+step: 5140, loss: 44.995232, time consumption: 0.022657
+=> current epoch:  143
+step: 5150, loss: 103.774765, time consumption: 0.020778
+step: 5160, loss: 64.783134, time consumption: 0.021027
+step: 5170, loss: 59.985367, time consumption: 0.021016
+step: 5180, loss: 100.501869, time consumption: 0.021326
+=> current epoch:  144
+step: 5190, loss: 48.961552, time consumption: 0.021018
+step: 5200, loss: 48.709755, time consumption: 0.021760
+step: 5210, loss: 69.922699, time consumption: 0.021618
+step: 5220, loss: 40.743195, time consumption: 0.021478
+=> current epoch:  145
+step: 5230, loss: 29.507069, time consumption: 0.021627
+step: 5240, loss: 56.175690, time consumption: 0.021886
+step: 5250, loss: 52.013073, time consumption: 0.022515
+=> current epoch:  146
+step: 5260, loss: 44.525650, time consumption: 0.020784
+step: 5270, loss: 60.277061, time consumption: 0.023599
+step: 5280, loss: 69.578407, time consumption: 0.022871
+step: 5290, loss: 92.046021, time consumption: 0.024444
+=> current epoch:  147
+step: 5300, loss: 201.159363, time consumption: 0.025263
+step: 5310, loss: 110.341629, time consumption: 0.022717
+step: 5320, loss: 115.582672, time consumption: 0.022253
+=> current epoch:  148
+step: 5330, loss: 108.712395, time consumption: 0.021002
+step: 5340, loss: 66.004158, time consumption: 0.020832
+step: 5350, loss: 55.560406, time consumption: 0.021407
+step: 5360, loss: 106.459656, time consumption: 0.021703
+=> current epoch:  149
+step: 5370, loss: 82.804810, time consumption: 0.020946
+step: 5380, loss: 52.996181, time consumption: 0.021874
+step: 5390, loss: 120.037994, time consumption: 0.021934
+step: 5400, loss: 98.640320, time consumption: 0.021620
+=> current epoch:  150
+step: 5410, loss: 47.445061, time consumption: 0.022189
+step: 5420, loss: 61.747276, time consumption: 0.021998
+step: 5430, loss: 34.490883, time consumption: 0.021991
+=> current epoch:  151
+step: 5440, loss: 143.564392, time consumption: 0.021920
+step: 5450, loss: 38.862442, time consumption: 0.024414
+step: 5460, loss: 49.069828, time consumption: 0.023677
+step: 5470, loss: 38.784405, time consumption: 0.023134
+=> current epoch:  152
+step: 5480, loss: 51.635040, time consumption: 0.020700
+step: 5490, loss: 86.436867, time consumption: 0.021144
+step: 5500, loss: 81.963470, time consumption: 0.021173
+=> current epoch:  153
+step: 5510, loss: 41.570232, time consumption: 0.025892
+step: 5520, loss: 53.176895, time consumption: 0.025265
+step: 5530, loss: 29.719440, time consumption: 0.023411
+step: 5540, loss: 102.254158, time consumption: 0.022828
+=> current epoch:  154
+step: 5550, loss: 37.104233, time consumption: 0.021049
+step: 5560, loss: 57.777161, time consumption: 0.021165
+step: 5570, loss: 61.341202, time consumption: 0.021317
+step: 5580, loss: 78.259842, time consumption: 0.022812
+=> current epoch:  155
+step: 5590, loss: 110.128189, time consumption: 0.020758
+step: 5600, loss: 39.363628, time consumption: 0.022307
+step: 5610, loss: 59.790646, time consumption: 0.022709
+=> current epoch:  156
+step: 5620, loss: 101.630112, time consumption: 0.030923
+step: 5630, loss: 31.292120, time consumption: 0.023875
+step: 5640, loss: 67.542236, time consumption: 0.022446
+step: 5650, loss: 52.483543, time consumption: 0.022216
+=> current epoch:  157
+step: 5660, loss: 59.688217, time consumption: 0.021205
+step: 5670, loss: 107.282173, time consumption: 0.021406
+step: 5680, loss: 61.497753, time consumption: 0.021642
+=> current epoch:  158
+step: 5690, loss: 95.102646, time consumption: 0.021474
+step: 5700, loss: 75.494461, time consumption: 0.023998
+step: 5710, loss: 97.933754, time consumption: 0.022804
+step: 5720, loss: 63.557350, time consumption: 0.022208
+=> current epoch:  159
+step: 5730, loss: 31.759596, time consumption: 0.023214
+step: 5740, loss: 29.443691, time consumption: 0.024155
+step: 5750, loss: 74.916908, time consumption: 0.022933
+step: 5760, loss: 35.663902, time consumption: 0.022365
+=> current epoch:  160
+step: 5770, loss: 56.897594, time consumption: 0.022461
+step: 5780, loss: 48.639778, time consumption: 0.021703
+step: 5790, loss: 83.171501, time consumption: 0.021383
+=> current epoch:  161
+step: 5800, loss: 78.939835, time consumption: 0.020902
+step: 5810, loss: 72.887550, time consumption: 0.020834
+step: 5820, loss: 41.878422, time consumption: 0.021018
+step: 5830, loss: 36.754578, time consumption: 0.021552
+=> current epoch:  162
+step: 5840, loss: 130.539627, time consumption: 0.022910
+step: 5850, loss: 153.491959, time consumption: 0.021918
+step: 5860, loss: 93.805161, time consumption: 0.022206
+=> current epoch:  163
+step: 5870, loss: 73.196533, time consumption: 0.020894
+step: 5880, loss: 107.699326, time consumption: 0.021752
+step: 5890, loss: 94.516434, time consumption: 0.021993
+step: 5900, loss: 40.569504, time consumption: 0.021951
+=> current epoch:  164
+step: 5910, loss: 21.582371, time consumption: 0.020677
+step: 5920, loss: 79.945351, time consumption: 0.022026
+step: 5930, loss: 52.162739, time consumption: 0.021522
+step: 5940, loss: 38.305859, time consumption: 0.021794
+=> current epoch:  165
+step: 5950, loss: 62.300545, time consumption: 0.021362
+step: 5960, loss: 24.966248, time consumption: 0.021577
+step: 5970, loss: 43.567307, time consumption: 0.021231
+=> current epoch:  166
+step: 5980, loss: 39.397022, time consumption: 0.021907
+step: 5990, loss: 127.760025, time consumption: 0.022468
+step: 6000, loss: 42.677948, time consumption: 0.021850
+step: 6010, loss: 72.309723, time consumption: 0.139916
+=> current epoch:  167
+step: 6020, loss: 54.395531, time consumption: 0.026774
+step: 6030, loss: 32.934662, time consumption: 0.023476
+step: 6040, loss: 93.193161, time consumption: 0.022472
+=> current epoch:  168
+step: 6050, loss: 36.994808, time consumption: 0.020056
+step: 6060, loss: 90.551270, time consumption: 0.022087
+step: 6070, loss: 40.062202, time consumption: 0.022621
+step: 6080, loss: 51.334618, time consumption: 0.023117
+=> current epoch:  169
+step: 6090, loss: 25.070581, time consumption: 0.021180
+step: 6100, loss: 56.109768, time consumption: 0.021045
+step: 6110, loss: 122.352829, time consumption: 0.021215
+step: 6120, loss: 77.669479, time consumption: 0.021186
+=> current epoch:  170
+step: 6130, loss: 42.161156, time consumption: 0.022297
+step: 6140, loss: 58.668427, time consumption: 0.022310
+step: 6150, loss: 55.995758, time consumption: 0.022230
+=> current epoch:  171
+step: 6160, loss: 112.438965, time consumption: 0.024631
+step: 6170, loss: 41.037251, time consumption: 0.025286
+step: 6180, loss: 97.735146, time consumption: 0.023507
+step: 6190, loss: 55.574715, time consumption: 0.023385
+=> current epoch:  172
+step: 6200, loss: 37.396343, time consumption: 0.024908
+step: 6210, loss: 77.193481, time consumption: 0.024883
+step: 6220, loss: 87.104279, time consumption: 0.023492
+=> current epoch:  173
+step: 6230, loss: 23.981152, time consumption: 0.019710
+step: 6240, loss: 59.531311, time consumption: 0.020994
+step: 6250, loss: 49.121811, time consumption: 0.020743
+step: 6260, loss: 65.887848, time consumption: 0.021195
+=> current epoch:  174
+step: 6270, loss: 72.600403, time consumption: 0.024137
+step: 6280, loss: 59.070274, time consumption: 0.021852
+step: 6290, loss: 54.809925, time consumption: 0.021629
+step: 6300, loss: 64.138176, time consumption: 0.022092
+=> current epoch:  175
+step: 6310, loss: 99.571686, time consumption: 0.024535
+step: 6320, loss: 87.386414, time consumption: 0.023409
+step: 6330, loss: 47.820427, time consumption: 0.023435
+=> current epoch:  176
+step: 6340, loss: 55.265160, time consumption: 0.020826
+step: 6350, loss: 60.985676, time consumption: 0.022354
+step: 6360, loss: 58.884964, time consumption: 0.021649
+step: 6370, loss: 41.158913, time consumption: 0.021375
+=> current epoch:  177
+step: 6380, loss: 74.480179, time consumption: 0.021040
+step: 6390, loss: 25.801712, time consumption: 0.021635
+step: 6400, loss: 75.772987, time consumption: 0.021624
+=> current epoch:  178
+step: 6410, loss: 66.234039, time consumption: 0.021537
+step: 6420, loss: 41.713364, time consumption: 0.021389
+step: 6430, loss: 80.975922, time consumption: 0.021024
+step: 6440, loss: 93.251892, time consumption: 0.021389
+=> current epoch:  179
+step: 6450, loss: 72.871330, time consumption: 0.026533
+step: 6460, loss: 72.638489, time consumption: 0.022756
+step: 6470, loss: 34.626385, time consumption: 0.022655
+step: 6480, loss: 128.391113, time consumption: 0.022251
+=> current epoch:  180
+step: 6490, loss: 72.515602, time consumption: 0.020561
+step: 6500, loss: 57.054768, time consumption: 0.021682
+step: 6510, loss: 88.610245, time consumption: 0.154171
+=> current epoch:  181
+step: 6520, loss: 81.435448, time consumption: 0.022468
+step: 6530, loss: 59.937317, time consumption: 0.021923
+step: 6540, loss: 50.568584, time consumption: 0.022369
+step: 6550, loss: 26.944221, time consumption: 0.023247
+=> current epoch:  182
+step: 6560, loss: 113.485802, time consumption: 0.022264
+step: 6570, loss: 73.710846, time consumption: 0.021723
+step: 6580, loss: 31.058067, time consumption: 0.021655
+=> current epoch:  183
+step: 6590, loss: 40.165863, time consumption: 0.021556
+step: 6600, loss: 55.454044, time consumption: 0.020823
+step: 6610, loss: 47.566055, time consumption: 0.020661
+step: 6620, loss: 38.475609, time consumption: 0.020761
+=> current epoch:  184
+step: 6630, loss: 63.351315, time consumption: 0.021081
+step: 6640, loss: 35.974693, time consumption: 0.021123
+step: 6650, loss: 45.305084, time consumption: 0.021354
+step: 6660, loss: 56.345123, time consumption: 0.021549
+=> current epoch:  185
+step: 6670, loss: 23.931524, time consumption: 0.022966
+step: 6680, loss: 23.135292, time consumption: 0.022413
+step: 6690, loss: 27.030035, time consumption: 0.022924
+=> current epoch:  186
+step: 6700, loss: 83.395477, time consumption: 0.021138
+step: 6710, loss: 34.550308, time consumption: 0.021190
+step: 6720, loss: 28.800886, time consumption: 0.021524
+step: 6730, loss: 26.334236, time consumption: 0.022278
+=> current epoch:  187
+step: 6740, loss: 47.392113, time consumption: 0.024705
+step: 6750, loss: 34.591072, time consumption: 0.022626
+step: 6760, loss: 41.836971, time consumption: 0.021890
+=> current epoch:  188
+step: 6770, loss: 58.049980, time consumption: 0.019011
+step: 6780, loss: 74.025116, time consumption: 0.020667
+step: 6790, loss: 52.868156, time consumption: 0.020748
+step: 6800, loss: 29.594929, time consumption: 0.021342
+=> current epoch:  189
+step: 6810, loss: 69.714233, time consumption: 0.021290
+step: 6820, loss: 118.952812, time consumption: 0.021303
+step: 6830, loss: 44.355644, time consumption: 0.021153
+step: 6840, loss: 44.435608, time consumption: 0.021643
+=> current epoch:  190
+step: 6850, loss: 59.598297, time consumption: 0.023412
+step: 6860, loss: 26.630074, time consumption: 0.023069
+step: 6870, loss: 54.914513, time consumption: 0.022512
+=> current epoch:  191
+step: 6880, loss: 123.935379, time consumption: 0.021506
+step: 6890, loss: 56.912636, time consumption: 0.021448
+step: 6900, loss: 81.224564, time consumption: 0.021100
+step: 6910, loss: 49.585548, time consumption: 0.022189
+=> current epoch:  192
+step: 6920, loss: 58.011467, time consumption: 0.022598
+step: 6930, loss: 55.291035, time consumption: 0.021678
+step: 6940, loss: 51.193176, time consumption: 0.022606
+=> current epoch:  193
+step: 6950, loss: 75.856277, time consumption: 0.023602
+step: 6960, loss: 62.103928, time consumption: 0.022936
+step: 6970, loss: 36.769192, time consumption: 0.022868
+step: 6980, loss: 46.033863, time consumption: 0.022342
+=> current epoch:  194
+step: 6990, loss: 34.243587, time consumption: 0.022143
+step: 7000, loss: 61.377960, time consumption: 0.021899
+step: 7010, loss: 26.989134, time consumption: 0.175916
+step: 7020, loss: 97.311981, time consumption: 0.133020
+=> current epoch:  195
+step: 7030, loss: 91.846237, time consumption: 0.022483
+step: 7040, loss: 46.058926, time consumption: 0.021622
+step: 7050, loss: 41.890167, time consumption: 0.021368
+=> current epoch:  196
+step: 7060, loss: 20.509399, time consumption: 0.021974
+step: 7070, loss: 65.958389, time consumption: 0.021261
+step: 7080, loss: 58.320724, time consumption: 0.021989
+step: 7090, loss: 116.778206, time consumption: 0.022348
+=> current epoch:  197
+step: 7100, loss: 34.433422, time consumption: 0.021934
+step: 7110, loss: 38.985756, time consumption: 0.022676
+step: 7120, loss: 41.571175, time consumption: 0.022653
+=> current epoch:  198
+step: 7130, loss: 71.708450, time consumption: 0.020859
+step: 7140, loss: 41.082588, time consumption: 0.022074
+step: 7150, loss: 103.346298, time consumption: 0.022549
+step: 7160, loss: 56.479820, time consumption: 0.022251
+=> current epoch:  199
+step: 7170, loss: 86.213852, time consumption: 0.021086
+step: 7180, loss: 28.996815, time consumption: 0.021254
+step: 7190, loss: 33.285393, time consumption: 0.021197
+step: 7200, loss: 35.569221, time consumption: 0.021103
+=> current epoch:  200
+step: 7210, loss: 85.106506, time consumption: 0.020589
+step: 7220, loss: 41.288696, time consumption: 0.021285
+step: 7230, loss: 38.057587, time consumption: 0.021098
+=> current epoch:  201
+step: 7240, loss: 36.510071, time consumption: 0.020765
+step: 7250, loss: 38.106323, time consumption: 0.020846
+step: 7260, loss: 69.654190, time consumption: 0.023476
+step: 7270, loss: 110.659409, time consumption: 0.022803
+=> current epoch:  202
+step: 7280, loss: 29.704983, time consumption: 0.021138
+step: 7290, loss: 100.144745, time consumption: 0.021533
+step: 7300, loss: 28.459206, time consumption: 0.022476
+=> current epoch:  203
+step: 7310, loss: 74.543129, time consumption: 0.021566
+step: 7320, loss: 77.432510, time consumption: 0.022013
+step: 7330, loss: 44.817368, time consumption: 0.021550
+step: 7340, loss: 49.165428, time consumption: 0.021381
+=> current epoch:  204
+step: 7350, loss: 34.251850, time consumption: 0.021812
+step: 7360, loss: 57.838745, time consumption: 0.021365
+step: 7370, loss: 37.507511, time consumption: 0.021329
+step: 7380, loss: 53.271782, time consumption: 0.021790
+=> current epoch:  205
+step: 7390, loss: 34.725609, time consumption: 0.022428
+step: 7400, loss: 54.734314, time consumption: 0.021571
+step: 7410, loss: 69.294144, time consumption: 0.021386
+=> current epoch:  206
+step: 7420, loss: 35.327652, time consumption: 0.022068
+step: 7430, loss: 29.589527, time consumption: 0.022042
+step: 7440, loss: 28.363480, time consumption: 0.021426
+step: 7450, loss: 54.681587, time consumption: 0.021544
+=> current epoch:  207
+step: 7460, loss: 22.628256, time consumption: 0.021014
+step: 7470, loss: 45.668835, time consumption: 0.022270
+step: 7480, loss: 91.552208, time consumption: 0.021962
+=> current epoch:  208
+step: 7490, loss: 63.747753, time consumption: 0.020511
+step: 7500, loss: 38.949650, time consumption: 0.021177
+step: 7510, loss: 49.844376, time consumption: 0.202763
+step: 7520, loss: 37.039150, time consumption: 0.145981
+=> current epoch:  209
+step: 7530, loss: 99.426682, time consumption: 0.025270
+step: 7540, loss: 47.434219, time consumption: 0.022274
+step: 7550, loss: 38.070671, time consumption: 0.021845
+step: 7560, loss: 40.415253, time consumption: 0.021815
+=> current epoch:  210
+step: 7570, loss: 24.160172, time consumption: 0.022364
+step: 7580, loss: 36.776592, time consumption: 0.021702
+step: 7590, loss: 94.126617, time consumption: 0.022483
+=> current epoch:  211
+step: 7600, loss: 57.366840, time consumption: 0.023553
+step: 7610, loss: 34.025780, time consumption: 0.022454
+step: 7620, loss: 53.068386, time consumption: 0.021724
+step: 7630, loss: 28.408253, time consumption: 0.021666
+=> current epoch:  212
+step: 7640, loss: 21.991266, time consumption: 0.020760
+step: 7650, loss: 36.790176, time consumption: 0.020885
+step: 7660, loss: 32.616489, time consumption: 0.022239
+=> current epoch:  213
+step: 7670, loss: 57.325764, time consumption: 0.020160
+step: 7680, loss: 50.668945, time consumption: 0.021618
+step: 7690, loss: 55.686485, time consumption: 0.022438
+step: 7700, loss: 71.288208, time consumption: 0.021958
+=> current epoch:  214
+step: 7710, loss: 22.902893, time consumption: 0.020692
+step: 7720, loss: 64.051849, time consumption: 0.021025
+step: 7730, loss: 65.577194, time consumption: 0.023415
+step: 7740, loss: 31.921467, time consumption: 0.023951
+=> current epoch:  215
+step: 7750, loss: 88.764526, time consumption: 0.024221
+step: 7760, loss: 44.116615, time consumption: 0.022312
+step: 7770, loss: 54.120434, time consumption: 0.022538
+=> current epoch:  216
+step: 7780, loss: 53.765739, time consumption: 0.021881
+step: 7790, loss: 64.211227, time consumption: 0.023571
+step: 7800, loss: 49.151337, time consumption: 0.023012
+step: 7810, loss: 45.401970, time consumption: 0.022961
+=> current epoch:  217
+step: 7820, loss: 37.978058, time consumption: 0.020806
+step: 7830, loss: 97.473495, time consumption: 0.020966
+step: 7840, loss: 36.573826, time consumption: 0.021569
+=> current epoch:  218
+step: 7850, loss: 86.992264, time consumption: 0.021266
+step: 7860, loss: 20.276993, time consumption: 0.021443
+step: 7870, loss: 73.763130, time consumption: 0.022030
+step: 7880, loss: 27.427935, time consumption: 0.022380
+=> current epoch:  219
+step: 7890, loss: 41.642197, time consumption: 0.021080
+step: 7900, loss: 79.628189, time consumption: 0.022010
+step: 7910, loss: 37.404270, time consumption: 0.021410
+step: 7920, loss: 29.260204, time consumption: 0.021191
+=> current epoch:  220
+step: 7930, loss: 42.579124, time consumption: 0.021155
+step: 7940, loss: 38.857346, time consumption: 0.021605
+step: 7950, loss: 42.069374, time consumption: 0.022105
+=> current epoch:  221
+step: 7960, loss: 37.697807, time consumption: 0.024398
+step: 7970, loss: 25.922596, time consumption: 0.024408
+step: 7980, loss: 26.190472, time consumption: 0.023860
+step: 7990, loss: 65.633347, time consumption: 0.023738
+=> current epoch:  222
+step: 8000, loss: 93.383514, time consumption: 0.025293
+step: 8010, loss: 54.846920, time consumption: 0.244645
+step: 8020, loss: 49.397522, time consumption: 0.164716
+=> current epoch:  223
+step: 8030, loss: 37.386879, time consumption: 0.021237
+step: 8040, loss: 45.487000, time consumption: 0.023058
+step: 8050, loss: 47.376556, time consumption: 0.021695
+step: 8060, loss: 47.118134, time consumption: 0.022207
+=> current epoch:  224
+step: 8070, loss: 26.001497, time consumption: 0.020411
+step: 8080, loss: 40.764008, time consumption: 0.020818
+step: 8090, loss: 41.505726, time consumption: 0.021475
+step: 8100, loss: 30.596416, time consumption: 0.021973
+=> current epoch:  225
+step: 8110, loss: 19.851276, time consumption: 0.021050
+step: 8120, loss: 62.460049, time consumption: 0.021736
+step: 8130, loss: 57.124973, time consumption: 0.021660
+=> current epoch:  226
+step: 8140, loss: 60.440331, time consumption: 0.024748
+step: 8150, loss: 37.998947, time consumption: 0.021663
+step: 8160, loss: 31.082623, time consumption: 0.021283
+step: 8170, loss: 34.037865, time consumption: 0.021706
+=> current epoch:  227
+step: 8180, loss: 32.224312, time consumption: 0.020754
+step: 8190, loss: 27.306416, time consumption: 0.020441
+step: 8200, loss: 37.062290, time consumption: 0.021251
+=> current epoch:  228
+step: 8210, loss: 37.169220, time consumption: 0.020898
+step: 8220, loss: 35.900536, time consumption: 0.021843
+step: 8230, loss: 44.392403, time consumption: 0.021177
+step: 8240, loss: 37.022270, time consumption: 0.023413
+=> current epoch:  229
+step: 8250, loss: 109.030060, time consumption: 0.020407
+step: 8260, loss: 38.239609, time consumption: 0.020613
+step: 8270, loss: 91.273407, time consumption: 0.020859
+step: 8280, loss: 35.765179, time consumption: 0.020981
+=> current epoch:  230
+step: 8290, loss: 39.388760, time consumption: 0.022681
+step: 8300, loss: 64.583023, time consumption: 0.021437
+step: 8310, loss: 88.830750, time consumption: 0.021284
+=> current epoch:  231
+step: 8320, loss: 28.494473, time consumption: 0.020577
+step: 8330, loss: 52.097988, time consumption: 0.021054
+step: 8340, loss: 36.913506, time consumption: 0.021149
+step: 8350, loss: 99.168427, time consumption: 0.021288
+=> current epoch:  232
+step: 8360, loss: 37.998371, time consumption: 0.022637
+step: 8370, loss: 47.295715, time consumption: 0.024067
+step: 8380, loss: 42.789093, time consumption: 0.023359
+=> current epoch:  233
+step: 8390, loss: 63.389751, time consumption: 0.021035
+step: 8400, loss: 53.018658, time consumption: 0.022740
+step: 8410, loss: 36.644791, time consumption: 0.022320
+step: 8420, loss: 73.676445, time consumption: 0.021856
+=> current epoch:  234
+step: 8430, loss: 39.478836, time consumption: 0.021432
+step: 8440, loss: 77.240631, time consumption: 0.022374
+step: 8450, loss: 80.456779, time consumption: 0.021943
+step: 8460, loss: 43.961315, time consumption: 0.021661
+=> current epoch:  235
+step: 8470, loss: 27.020153, time consumption: 0.023562
+step: 8480, loss: 31.207390, time consumption: 0.023389
+step: 8490, loss: 32.046227, time consumption: 0.022787
+=> current epoch:  236
+step: 8500, loss: 53.689774, time consumption: 0.026887
+step: 8510, loss: 50.457573, time consumption: 0.309222
+step: 8520, loss: 98.293152, time consumption: 0.189266
+step: 8530, loss: 85.104233, time consumption: 0.140320
+=> current epoch:  237
+step: 8540, loss: 26.965691, time consumption: 0.020532
+step: 8550, loss: 39.174603, time consumption: 0.020628
+step: 8560, loss: 27.096123, time consumption: 0.021107
+=> current epoch:  238
+step: 8570, loss: 38.623863, time consumption: 0.039306
+step: 8580, loss: 31.279314, time consumption: 0.027858
+step: 8590, loss: 80.299744, time consumption: 0.024664
+step: 8600, loss: 72.246346, time consumption: 0.023792
+=> current epoch:  239
+step: 8610, loss: 34.963791, time consumption: 0.021919
+step: 8620, loss: 46.285728, time consumption: 0.023859
+step: 8630, loss: 28.585876, time consumption: 0.022775
+step: 8640, loss: 42.334087, time consumption: 0.022196
+=> current epoch:  240
+step: 8650, loss: 109.846863, time consumption: 0.021415
+step: 8660, loss: 41.983322, time consumption: 0.021796
+step: 8670, loss: 23.142189, time consumption: 0.022465
+=> current epoch:  241
+step: 8680, loss: 83.626999, time consumption: 0.020190
+step: 8690, loss: 37.805847, time consumption: 0.023467
+step: 8700, loss: 73.627975, time consumption: 0.022415
+step: 8710, loss: 38.441719, time consumption: 0.022061
+=> current epoch:  242
+step: 8720, loss: 52.947201, time consumption: 0.021446
+step: 8730, loss: 25.501919, time consumption: 0.021056
+step: 8740, loss: 45.094467, time consumption: 0.021201
+=> current epoch:  243
+step: 8750, loss: 131.603653, time consumption: 0.021720
+step: 8760, loss: 26.023743, time consumption: 0.023344
+step: 8770, loss: 35.558464, time consumption: 0.022317
+step: 8780, loss: 18.574694, time consumption: 0.021940
+=> current epoch:  244
+step: 8790, loss: 54.437531, time consumption: 0.021679
+step: 8800, loss: 76.523048, time consumption: 0.022486
+step: 8810, loss: 69.617714, time consumption: 0.022780
+step: 8820, loss: 61.065281, time consumption: 0.024292
+=> current epoch:  245
+step: 8830, loss: 71.624298, time consumption: 0.022347
+step: 8840, loss: 42.338081, time consumption: 0.022322
+step: 8850, loss: 32.918461, time consumption: 0.023070
+=> current epoch:  246
+step: 8860, loss: 56.041718, time consumption: 0.023789
+step: 8870, loss: 30.639685, time consumption: 0.024907
+step: 8880, loss: 25.045033, time consumption: 0.024428
+step: 8890, loss: 48.175797, time consumption: 0.023381
+=> current epoch:  247
+step: 8900, loss: 17.191233, time consumption: 0.021522
+step: 8910, loss: 37.651802, time consumption: 0.021073
+step: 8920, loss: 63.695618, time consumption: 0.021410
+=> current epoch:  248
+step: 8930, loss: 64.590088, time consumption: 0.020796
+step: 8940, loss: 34.596123, time consumption: 0.022808
+step: 8950, loss: 62.397797, time consumption: 0.022877
+step: 8960, loss: 79.603394, time consumption: 0.022690
+=> current epoch:  249
+step: 8970, loss: 25.858887, time consumption: 0.020982
+step: 8980, loss: 36.264545, time consumption: 0.022546
+step: 8990, loss: 33.263832, time consumption: 0.022086
+step: 9000, loss: 37.670837, time consumption: 0.021702
+=> current epoch:  250
+step: 9010, loss: 51.425209, time consumption: 0.024791
+step: 9020, loss: 58.165550, time consumption: 0.022963
+step: 9030, loss: 98.386963, time consumption: 0.022360
+=> current epoch:  251
+step: 9040, loss: 19.630245, time consumption: 0.021299
+step: 9050, loss: 80.339539, time consumption: 0.021202
+step: 9060, loss: 43.871948, time consumption: 0.022211
+step: 9070, loss: 39.753647, time consumption: 0.023104
+=> current epoch:  252
+step: 9080, loss: 63.079063, time consumption: 0.023146
+step: 9090, loss: 45.102371, time consumption: 0.023252
+step: 9100, loss: 21.070335, time consumption: 0.022261
+=> current epoch:  253
+step: 9110, loss: 67.914734, time consumption: 0.026916
+step: 9120, loss: 79.904556, time consumption: 0.021922
+step: 9130, loss: 65.769119, time consumption: 0.021466
+step: 9140, loss: 54.742168, time consumption: 0.021965
+=> current epoch:  254
+step: 9150, loss: 29.379763, time consumption: 0.021338
+step: 9160, loss: 22.761042, time consumption: 0.020927
+step: 9170, loss: 24.265440, time consumption: 0.021469
+step: 9180, loss: 64.048401, time consumption: 0.021289
+=> current epoch:  255
+step: 9190, loss: 67.398682, time consumption: 0.020938
+step: 9200, loss: 62.782509, time consumption: 0.021113
+step: 9210, loss: 33.288940, time consumption: 0.021070
+=> current epoch:  256
+step: 9220, loss: 53.539158, time consumption: 0.021013
+step: 9230, loss: 41.450119, time consumption: 0.021088
+step: 9240, loss: 49.830620, time consumption: 0.020803
+step: 9250, loss: 109.251740, time consumption: 0.021276
+=> current epoch:  257
+step: 9260, loss: 38.621059, time consumption: 0.024187
+step: 9270, loss: 88.426117, time consumption: 0.022240
+step: 9280, loss: 61.641083, time consumption: 0.021712
+=> current epoch:  258
+step: 9290, loss: 31.020346, time consumption: 0.021051
+step: 9300, loss: 40.320118, time consumption: 0.024369
+step: 9310, loss: 47.034706, time consumption: 0.023104
+step: 9320, loss: 59.686478, time consumption: 0.022358
+=> current epoch:  259
+step: 9330, loss: 52.340950, time consumption: 0.022985
+step: 9340, loss: 28.272118, time consumption: 0.023553
+step: 9350, loss: 49.810631, time consumption: 0.022531
+step: 9360, loss: 51.459618, time consumption: 0.022480
+=> current epoch:  260
+step: 9370, loss: 38.610477, time consumption: 0.023901
+step: 9380, loss: 65.251236, time consumption: 0.022356
+step: 9390, loss: 87.966187, time consumption: 0.022052
+=> current epoch:  261
+step: 9400, loss: 55.217098, time consumption: 0.021081
+step: 9410, loss: 60.944996, time consumption: 0.021634
+step: 9420, loss: 59.265030, time consumption: 0.021806
+step: 9430, loss: 101.119751, time consumption: 0.022028
+=> current epoch:  262
+step: 9440, loss: 54.153625, time consumption: 0.025069
+step: 9450, loss: 26.305759, time consumption: 0.022720
+step: 9460, loss: 23.598211, time consumption: 0.022594
+=> current epoch:  263
+step: 9470, loss: 77.581741, time consumption: 0.027021
+step: 9480, loss: 49.536957, time consumption: 0.022974
+step: 9490, loss: 27.843384, time consumption: 0.022694
+step: 9500, loss: 104.916573, time consumption: 0.022140
+=> current epoch:  264
+step: 9510, loss: 70.119934, time consumption: 0.020623
+step: 9520, loss: 27.854465, time consumption: 0.021945
+step: 9530, loss: 81.998077, time consumption: 0.021628
+step: 9540, loss: 61.416725, time consumption: 0.021353
+=> current epoch:  265
+step: 9550, loss: 57.685299, time consumption: 0.023261
+step: 9560, loss: 100.363876, time consumption: 0.024845
+step: 9570, loss: 53.595528, time consumption: 0.023416
+=> current epoch:  266
+step: 9580, loss: 36.848885, time consumption: 0.022350
+step: 9590, loss: 63.658268, time consumption: 0.022663
+step: 9600, loss: 44.201904, time consumption: 0.022492
+step: 9610, loss: 42.078094, time consumption: 0.022147
+=> current epoch:  267
+step: 9620, loss: 56.920746, time consumption: 0.025541
+step: 9630, loss: 31.059359, time consumption: 0.024264
+step: 9640, loss: 83.284622, time consumption: 0.023159
+=> current epoch:  268
+step: 9650, loss: 85.748360, time consumption: 0.021149
+step: 9660, loss: 51.449081, time consumption: 0.023628
+step: 9670, loss: 31.089935, time consumption: 0.022499
+step: 9680, loss: 70.984924, time consumption: 0.022558
+=> current epoch:  269
+step: 9690, loss: 26.806950, time consumption: 0.024476
+step: 9700, loss: 86.977386, time consumption: 0.021822
+step: 9710, loss: 52.981686, time consumption: 0.022264
+step: 9720, loss: 44.473442, time consumption: 0.022540
+=> current epoch:  270
+step: 9730, loss: 63.449883, time consumption: 0.027372
+step: 9740, loss: 26.336720, time consumption: 0.025404
+step: 9750, loss: 80.189697, time consumption: 0.023816
+=> current epoch:  271
+step: 9760, loss: 11.466448, time consumption: 0.021999
+step: 9770, loss: 50.318707, time consumption: 0.021966
+step: 9780, loss: 46.088310, time consumption: 0.021583
+step: 9790, loss: 40.642063, time consumption: 0.021680
+=> current epoch:  272
+step: 9800, loss: 32.293930, time consumption: 0.020730
+step: 9810, loss: 27.779261, time consumption: 0.020883
+step: 9820, loss: 52.997791, time consumption: 0.021663
+=> current epoch:  273
+step: 9830, loss: 36.171219, time consumption: 0.021538
+step: 9840, loss: 26.613419, time consumption: 0.023833
+step: 9850, loss: 37.989479, time consumption: 0.023455
+step: 9860, loss: 64.067902, time consumption: 0.023088
+=> current epoch:  274
+step: 9870, loss: 82.327713, time consumption: 0.022358
+step: 9880, loss: 43.635841, time consumption: 0.021599
+step: 9890, loss: 29.567984, time consumption: 0.022271
+step: 9900, loss: 28.189058, time consumption: 0.022966
+=> current epoch:  275
+step: 9910, loss: 58.698967, time consumption: 0.021124
+step: 9920, loss: 30.803734, time consumption: 0.022780
+step: 9930, loss: 75.882309, time consumption: 0.022459
+=> current epoch:  276
+step: 9940, loss: 31.538731, time consumption: 0.021058
+step: 9950, loss: 41.391151, time consumption: 0.021072
+step: 9960, loss: 44.908028, time consumption: 0.021030
+step: 9970, loss: 46.098606, time consumption: 0.021698
+=> current epoch:  277
+step: 9980, loss: 37.896206, time consumption: 0.024182
+step: 9990, loss: 36.775436, time consumption: 0.023246
+step: 10000, loss: 45.265553, time consumption: 0.023013
+Processing a single batch of validation images at step: 10000
+=> current epoch:  278
+step: 10010, loss: 17.143021, time consumption: 0.019825
+step: 10020, loss: 40.538914, time consumption: 0.020927
+step: 10030, loss: 51.012344, time consumption: 0.020902
+step: 10040, loss: 20.446899, time consumption: 0.021016
+=> current epoch:  279
+step: 10050, loss: 64.718124, time consumption: 0.021344
+step: 10060, loss: 47.301350, time consumption: 0.020780
+step: 10070, loss: 38.808315, time consumption: 0.020804
+step: 10080, loss: 59.255638, time consumption: 0.021297
+=> current epoch:  280
+step: 10090, loss: 36.635643, time consumption: 0.020693
+step: 10100, loss: 36.138611, time consumption: 0.023131
+step: 10110, loss: 58.061459, time consumption: 0.022754
+=> current epoch:  281
+step: 10120, loss: 91.973831, time consumption: 0.021117
+step: 10130, loss: 42.170067, time consumption: 0.022517
+step: 10140, loss: 97.946312, time consumption: 0.022265
+step: 10150, loss: 21.028988, time consumption: 0.023675
+=> current epoch:  282
+step: 10160, loss: 56.044079, time consumption: 0.023073
+step: 10170, loss: 30.576897, time consumption: 0.021865
+step: 10180, loss: 81.167564, time consumption: 0.022129
+=> current epoch:  283
+step: 10190, loss: 36.113388, time consumption: 0.025355
+step: 10200, loss: 60.668465, time consumption: 0.021178
+step: 10210, loss: 46.991318, time consumption: 0.021682
+step: 10220, loss: 39.754654, time consumption: 0.021649
+=> current epoch:  284
+step: 10230, loss: 36.789963, time consumption: 0.021209
+step: 10240, loss: 49.906174, time consumption: 0.021084
+step: 10250, loss: 61.200935, time consumption: 0.021721
+step: 10260, loss: 25.424393, time consumption: 0.021398
+=> current epoch:  285
+step: 10270, loss: 53.094002, time consumption: 0.020750
+step: 10280, loss: 40.512486, time consumption: 0.020706
+step: 10290, loss: 43.680984, time consumption: 0.020843
+=> current epoch:  286
+step: 10300, loss: 25.874016, time consumption: 0.021896
+step: 10310, loss: 27.144236, time consumption: 0.023750
+step: 10320, loss: 72.411339, time consumption: 0.024259
+step: 10330, loss: 80.355225, time consumption: 0.023285
+=> current epoch:  287
+step: 10340, loss: 57.840874, time consumption: 0.021152
+step: 10350, loss: 52.420891, time consumption: 0.022167
+step: 10360, loss: 25.423155, time consumption: 0.021849
+=> current epoch:  288
+step: 10370, loss: 35.581879, time consumption: 0.021389
+step: 10380, loss: 51.690647, time consumption: 0.022164
+step: 10390, loss: 61.459221, time consumption: 0.021681
+step: 10400, loss: 31.321281, time consumption: 0.021949
+=> current epoch:  289
+step: 10410, loss: 45.755917, time consumption: 0.021243
+step: 10420, loss: 33.751469, time consumption: 0.021606
+step: 10430, loss: 99.718140, time consumption: 0.021340
+step: 10440, loss: 39.553467, time consumption: 0.021343
+=> current epoch:  290
+step: 10450, loss: 43.157120, time consumption: 0.026208
+step: 10460, loss: 52.548717, time consumption: 0.023358
+step: 10470, loss: 61.655632, time consumption: 0.022840
+=> current epoch:  291
+step: 10480, loss: 39.306076, time consumption: 0.022350
+step: 10490, loss: 68.765160, time consumption: 0.022908
+step: 10500, loss: 75.975410, time consumption: 0.022582
+step: 10510, loss: 130.189041, time consumption: 0.140336
+=> current epoch:  292
+step: 10520, loss: 93.116142, time consumption: 0.020836
+step: 10530, loss: 41.900928, time consumption: 0.022234
+step: 10540, loss: 42.509972, time consumption: 0.021679
+=> current epoch:  293
+step: 10550, loss: 23.983223, time consumption: 0.021379
+step: 10560, loss: 59.183212, time consumption: 0.023992
+step: 10570, loss: 44.062080, time consumption: 0.022809
+step: 10580, loss: 32.061298, time consumption: 0.022578
+=> current epoch:  294
+step: 10590, loss: 74.206940, time consumption: 0.026317
+step: 10600, loss: 31.537689, time consumption: 0.026704
+step: 10610, loss: 34.413193, time consumption: 0.024467
+step: 10620, loss: 22.938261, time consumption: 0.023578
+=> current epoch:  295
+step: 10630, loss: 55.770828, time consumption: 0.022863
+step: 10640, loss: 23.960239, time consumption: 0.021748
+step: 10650, loss: 109.991089, time consumption: 0.021705
+=> current epoch:  296
+step: 10660, loss: 102.265602, time consumption: 0.025045
+step: 10670, loss: 105.343132, time consumption: 0.022727
+step: 10680, loss: 35.141525, time consumption: 0.021796
+step: 10690, loss: 46.310726, time consumption: 0.021501
+=> current epoch:  297
+step: 10700, loss: 54.219677, time consumption: 0.021355
+step: 10710, loss: 76.545807, time consumption: 0.021179
+step: 10720, loss: 39.910431, time consumption: 0.021254
+=> current epoch:  298
+step: 10730, loss: 24.525434, time consumption: 0.022490
+step: 10740, loss: 35.826324, time consumption: 0.020965
+step: 10750, loss: 40.763504, time consumption: 0.021593
+step: 10760, loss: 39.844788, time consumption: 0.021528
+=> current epoch:  299
+step: 10770, loss: 52.084019, time consumption: 0.025321
+step: 10780, loss: 45.917343, time consumption: 0.022551
+step: 10790, loss: 24.902863, time consumption: 0.022067
+step: 10800, loss: 19.450935, time consumption: 0.022562
+=> current epoch:  300
+step: 10810, loss: 47.683613, time consumption: 0.021771
+step: 10820, loss: 26.841099, time consumption: 0.022164
+step: 10830, loss: 47.478024, time consumption: 0.021552
+=> current epoch:  301
+step: 10840, loss: 40.982666, time consumption: 0.020477
+step: 10850, loss: 42.282066, time consumption: 0.023427
+step: 10860, loss: 50.588650, time consumption: 0.022621
+step: 10870, loss: 17.961658, time consumption: 0.022181
+=> current epoch:  302
+step: 10880, loss: 37.739452, time consumption: 0.030972
+step: 10890, loss: 38.469536, time consumption: 0.025542
+step: 10900, loss: 34.733574, time consumption: 0.023712
+=> current epoch:  303
+step: 10910, loss: 60.726227, time consumption: 0.020757
+step: 10920, loss: 24.964077, time consumption: 0.023664
+step: 10930, loss: 26.962587, time consumption: 0.022422
+step: 10940, loss: 54.740063, time consumption: 0.021942
+=> current epoch:  304
+step: 10950, loss: 27.328106, time consumption: 0.020922
+step: 10960, loss: 24.157486, time consumption: 0.021015
+step: 10970, loss: 35.816681, time consumption: 0.020935
+step: 10980, loss: 24.244280, time consumption: 0.021414
+=> current epoch:  305
+step: 10990, loss: 35.237568, time consumption: 0.021191
+step: 11000, loss: 41.460312, time consumption: 0.022267
+step: 11010, loss: 45.205421, time consumption: 0.179053
+=> current epoch:  306
+step: 11020, loss: 59.372639, time consumption: 0.020707
+step: 11030, loss: 41.584911, time consumption: 0.023424
+step: 11040, loss: 25.076298, time consumption: 0.022392
+step: 11050, loss: 38.338966, time consumption: 0.022339
+=> current epoch:  307
+step: 11060, loss: 18.040375, time consumption: 0.024282
+step: 11070, loss: 46.167793, time consumption: 0.022698
+step: 11080, loss: 24.201828, time consumption: 0.022690
+=> current epoch:  308
+step: 11090, loss: 97.997780, time consumption: 0.020287
+step: 11100, loss: 47.675087, time consumption: 0.022873
+step: 11110, loss: 78.324059, time consumption: 0.022476
+step: 11120, loss: 75.539230, time consumption: 0.022128
+=> current epoch:  309
+step: 11130, loss: 79.504578, time consumption: 0.022291
+step: 11140, loss: 113.863617, time consumption: 0.023636
+step: 11150, loss: 59.618263, time consumption: 0.023872
+step: 11160, loss: 61.727383, time consumption: 0.023429
+=> current epoch:  310
+step: 11170, loss: 42.723076, time consumption: 0.020670
+step: 11180, loss: 41.274689, time consumption: 0.022331
+step: 11190, loss: 64.597076, time consumption: 0.022707
+=> current epoch:  311
+step: 11200, loss: 110.597084, time consumption: 0.025102
+step: 11210, loss: 44.487473, time consumption: 0.022441
+step: 11220, loss: 66.185547, time consumption: 0.022571
+step: 11230, loss: 30.956505, time consumption: 0.022022
+=> current epoch:  312
+step: 11240, loss: 56.706711, time consumption: 0.024705
+step: 11250, loss: 55.134853, time consumption: 0.023387
+step: 11260, loss: 46.732475, time consumption: 0.024340
+=> current epoch:  313
+step: 11270, loss: 82.574753, time consumption: 0.020804
+step: 11280, loss: 34.183128, time consumption: 0.020958
+step: 11290, loss: 84.590454, time consumption: 0.021636
+step: 11300, loss: 31.852585, time consumption: 0.021960
+=> current epoch:  314
+step: 11310, loss: 31.356117, time consumption: 0.020641
+step: 11320, loss: 16.126091, time consumption: 0.020882
+step: 11330, loss: 99.125526, time consumption: 0.021120
+step: 11340, loss: 47.880936, time consumption: 0.021043
+=> current epoch:  315
+step: 11350, loss: 62.357506, time consumption: 0.021348
+step: 11360, loss: 45.475349, time consumption: 0.021437
+step: 11370, loss: 47.114277, time consumption: 0.021621
+=> current epoch:  316
+step: 11380, loss: 58.975403, time consumption: 0.027807
+step: 11390, loss: 27.258492, time consumption: 0.022229
+step: 11400, loss: 37.508682, time consumption: 0.022635
+step: 11410, loss: 54.697929, time consumption: 0.022079
+=> current epoch:  317
+step: 11420, loss: 33.856743, time consumption: 0.021815
+step: 11430, loss: 62.281315, time consumption: 0.021192
+step: 11440, loss: 56.035683, time consumption: 0.021465
+=> current epoch:  318
+step: 11450, loss: 22.525106, time consumption: 0.021048
+step: 11460, loss: 37.146057, time consumption: 0.020719
+step: 11470, loss: 33.783569, time consumption: 0.021972
+step: 11480, loss: 26.126228, time consumption: 0.022075
+=> current epoch:  319
+step: 11490, loss: 48.863533, time consumption: 0.023203
+step: 11500, loss: 55.064945, time consumption: 0.022152
+step: 11510, loss: 52.172997, time consumption: 0.176739
+step: 11520, loss: 29.245537, time consumption: 0.134041
+=> current epoch:  320
+step: 11530, loss: 19.230465, time consumption: 0.022557
+step: 11540, loss: 20.744995, time consumption: 0.022179
+step: 11550, loss: 41.207195, time consumption: 0.023198
+=> current epoch:  321
+step: 11560, loss: 87.007973, time consumption: 0.020562
+step: 11570, loss: 30.877213, time consumption: 0.021912
+step: 11580, loss: 35.381767, time consumption: 0.021589
+step: 11590, loss: 41.271633, time consumption: 0.022055
+=> current epoch:  322
+step: 11600, loss: 56.935532, time consumption: 0.023335
+step: 11610, loss: 47.506218, time consumption: 0.022928
+step: 11620, loss: 96.976723, time consumption: 0.022163
+=> current epoch:  323
+step: 11630, loss: 83.080887, time consumption: 0.020890
+step: 11640, loss: 33.910183, time consumption: 0.020561
+step: 11650, loss: 21.248652, time consumption: 0.021145
+step: 11660, loss: 34.985031, time consumption: 0.021352
+=> current epoch:  324
+step: 11670, loss: 24.646694, time consumption: 0.020810
+step: 11680, loss: 35.888309, time consumption: 0.021916
+step: 11690, loss: 46.562935, time consumption: 0.021910
+step: 11700, loss: 41.508633, time consumption: 0.021929
+=> current epoch:  325
+step: 11710, loss: 19.209141, time consumption: 0.021052
+step: 11720, loss: 18.386108, time consumption: 0.020920
+step: 11730, loss: 66.012871, time consumption: 0.020850
+=> current epoch:  326
+step: 11740, loss: 20.633423, time consumption: 0.021577
+step: 11750, loss: 44.918236, time consumption: 0.021277
+step: 11760, loss: 33.846878, time consumption: 0.021549
+step: 11770, loss: 37.646545, time consumption: 0.023082
+=> current epoch:  327
+step: 11780, loss: 24.923710, time consumption: 0.023600
+step: 11790, loss: 33.445908, time consumption: 0.022328
+step: 11800, loss: 39.344913, time consumption: 0.022363
+=> current epoch:  328
+step: 11810, loss: 18.154686, time consumption: 0.020875
+step: 11820, loss: 22.364010, time consumption: 0.023262
+step: 11830, loss: 28.597374, time consumption: 0.021927
+step: 11840, loss: 36.488972, time consumption: 0.021826
+=> current epoch:  329
+step: 11850, loss: 35.419212, time consumption: 0.021555
+step: 11860, loss: 30.207479, time consumption: 0.021082
+step: 11870, loss: 40.942429, time consumption: 0.020882
+step: 11880, loss: 30.010326, time consumption: 0.020936
+=> current epoch:  330
+step: 11890, loss: 24.073372, time consumption: 0.021563
+step: 11900, loss: 36.267586, time consumption: 0.021075
+step: 11910, loss: 17.581665, time consumption: 0.020934
+=> current epoch:  331
+step: 11920, loss: 84.896935, time consumption: 0.021185
+step: 11930, loss: 90.265579, time consumption: 0.020726
+step: 11940, loss: 86.252205, time consumption: 0.020981
+step: 11950, loss: 54.016029, time consumption: 0.021257
+=> current epoch:  332
+step: 11960, loss: 31.120514, time consumption: 0.024279
+step: 11970, loss: 46.960907, time consumption: 0.022140
+step: 11980, loss: 53.971363, time consumption: 0.022438
+=> current epoch:  333
+step: 11990, loss: 46.316753, time consumption: 0.021284
+step: 12000, loss: 63.514366, time consumption: 0.021479
+step: 12010, loss: 39.973881, time consumption: 0.203225
+step: 12020, loss: 63.691971, time consumption: 0.147398
+=> current epoch:  334
+step: 12030, loss: 52.908386, time consumption: 0.021021
+step: 12040, loss: 78.023590, time consumption: 0.021927
+step: 12050, loss: 13.612204, time consumption: 0.021601
+step: 12060, loss: 49.004936, time consumption: 0.021355
+=> current epoch:  335
+step: 12070, loss: 31.474224, time consumption: 0.020994
+step: 12080, loss: 53.737503, time consumption: 0.020629
+step: 12090, loss: 22.905605, time consumption: 0.020827
+=> current epoch:  336
+step: 12100, loss: 46.149506, time consumption: 0.022786
+step: 12110, loss: 33.746071, time consumption: 0.021840
+step: 12120, loss: 72.800262, time consumption: 0.021610
+step: 12130, loss: 33.027008, time consumption: 0.021453
+=> current epoch:  337
+step: 12140, loss: 31.768730, time consumption: 0.020473
+step: 12150, loss: 24.821096, time consumption: 0.022807
+step: 12160, loss: 39.177734, time consumption: 0.022521
+=> current epoch:  338
+step: 12170, loss: 22.448360, time consumption: 0.021230
+step: 12180, loss: 44.103531, time consumption: 0.021260
+step: 12190, loss: 36.808971, time consumption: 0.020979
+step: 12200, loss: 12.497512, time consumption: 0.021079
+=> current epoch:  339
+step: 12210, loss: 74.483322, time consumption: 0.021430
+step: 12220, loss: 31.361664, time consumption: 0.021282
+step: 12230, loss: 40.031406, time consumption: 0.021962
+step: 12240, loss: 89.259750, time consumption: 0.021972
+=> current epoch:  340
+step: 12250, loss: 79.859406, time consumption: 0.020957
+step: 12260, loss: 27.675392, time consumption: 0.021762
+step: 12270, loss: 37.582260, time consumption: 0.022445
+=> current epoch:  341
+step: 12280, loss: 42.149548, time consumption: 0.020508
+step: 12290, loss: 17.612652, time consumption: 0.021373
+step: 12300, loss: 22.920666, time consumption: 0.021461
+step: 12310, loss: 63.004196, time consumption: 0.021241
+=> current epoch:  342
+step: 12320, loss: 35.170135, time consumption: 0.020978
+step: 12330, loss: 29.031590, time consumption: 0.022515
+step: 12340, loss: 40.900646, time consumption: 0.022304
+=> current epoch:  343
+step: 12350, loss: 29.695923, time consumption: 0.020793
+step: 12360, loss: 142.747879, time consumption: 0.020951
+step: 12370, loss: 36.800472, time consumption: 0.022328
+step: 12380, loss: 56.686760, time consumption: 0.022046
+=> current epoch:  344
+step: 12390, loss: 85.418526, time consumption: 0.023058
+step: 12400, loss: 89.236229, time consumption: 0.021649
+step: 12410, loss: 70.391533, time consumption: 0.022081
+step: 12420, loss: 84.938232, time consumption: 0.021679
+=> current epoch:  345
+step: 12430, loss: 31.497635, time consumption: 0.022072
+step: 12440, loss: 20.567453, time consumption: 0.021297
+step: 12450, loss: 151.981628, time consumption: 0.021116
+=> current epoch:  346
+step: 12460, loss: 29.825241, time consumption: 0.020042
+step: 12470, loss: 81.480232, time consumption: 0.020206
+step: 12480, loss: 59.109154, time consumption: 0.020842
+step: 12490, loss: 76.884338, time consumption: 0.021031
+=> current epoch:  347
+step: 12500, loss: 50.195503, time consumption: 0.020836
+step: 12510, loss: 29.866755, time consumption: 0.242838
+step: 12520, loss: 69.745277, time consumption: 0.163835
+=> current epoch:  348
+step: 12530, loss: 71.782631, time consumption: 0.020573
+step: 12540, loss: 41.447056, time consumption: 0.020259
+step: 12550, loss: 21.751633, time consumption: 0.020638
+step: 12560, loss: 88.922729, time consumption: 0.021812
+=> current epoch:  349
+step: 12570, loss: 22.480751, time consumption: 0.020951
+step: 12580, loss: 22.781633, time consumption: 0.021848
+step: 12590, loss: 42.592266, time consumption: 0.023104
+step: 12600, loss: 34.387016, time consumption: 0.022473
+=> current epoch:  350
+step: 12610, loss: 48.014915, time consumption: 0.024809
+step: 12620, loss: 25.988003, time consumption: 0.023713
+step: 12630, loss: 45.609436, time consumption: 0.024838
+=> current epoch:  351
+step: 12640, loss: 37.590416, time consumption: 0.020857
+step: 12650, loss: 78.578751, time consumption: 0.020693
+step: 12660, loss: 38.592659, time consumption: 0.020806
+step: 12670, loss: 21.724960, time consumption: 0.021043
+=> current epoch:  352
+step: 12680, loss: 22.036293, time consumption: 0.020467
+step: 12690, loss: 16.839203, time consumption: 0.020804
+step: 12700, loss: 19.031971, time consumption: 0.020691
+=> current epoch:  353
+step: 12710, loss: 16.854481, time consumption: 0.020561
+step: 12720, loss: 31.851555, time consumption: 0.021079
+step: 12730, loss: 26.637705, time consumption: 0.021780
+step: 12740, loss: 76.029022, time consumption: 0.021411
+=> current epoch:  354
+step: 12750, loss: 16.497784, time consumption: 0.020514
+step: 12760, loss: 26.862003, time consumption: 0.020681
+step: 12770, loss: 34.532063, time consumption: 0.020747
+step: 12780, loss: 53.445530, time consumption: 0.021002
+=> current epoch:  355
+step: 12790, loss: 56.872910, time consumption: 0.020831
+step: 12800, loss: 68.710434, time consumption: 0.020908
+step: 12810, loss: 22.752657, time consumption: 0.021039
+=> current epoch:  356
+step: 12820, loss: 45.531612, time consumption: 0.021967
+step: 12830, loss: 105.221222, time consumption: 0.022058
+step: 12840, loss: 16.784260, time consumption: 0.021219
+step: 12850, loss: 64.683243, time consumption: 0.021941
+=> current epoch:  357
+step: 12860, loss: 26.169725, time consumption: 0.021396
+step: 12870, loss: 19.722170, time consumption: 0.022757
+step: 12880, loss: 17.725189, time consumption: 0.022364
+=> current epoch:  358
+step: 12890, loss: 13.375864, time consumption: 0.021395
+step: 12900, loss: 71.095596, time consumption: 0.021433
+step: 12910, loss: 27.235094, time consumption: 0.021644
+step: 12920, loss: 53.322552, time consumption: 0.021343
+=> current epoch:  359
+step: 12930, loss: 36.690445, time consumption: 0.022259
+step: 12940, loss: 23.595255, time consumption: 0.021324
+step: 12950, loss: 14.911005, time consumption: 0.021141
+step: 12960, loss: 60.701035, time consumption: 0.021867
+=> current epoch:  360
+step: 12970, loss: 32.915112, time consumption: 0.025294
+step: 12980, loss: 64.402176, time consumption: 0.023084
+step: 12990, loss: 19.273426, time consumption: 0.022621
+=> current epoch:  361
+step: 13000, loss: 29.418232, time consumption: 0.024634
+step: 13010, loss: 33.905479, time consumption: 0.296906
+step: 13020, loss: 58.989418, time consumption: 0.181929
+step: 13030, loss: 43.726681, time consumption: 0.134956
+=> current epoch:  362
+step: 13040, loss: 22.858849, time consumption: 0.021101
+step: 13050, loss: 35.570881, time consumption: 0.020860
+step: 13060, loss: 19.028934, time consumption: 0.021210
+=> current epoch:  363
+step: 13070, loss: 17.658669, time consumption: 0.020081
+step: 13080, loss: 34.768353, time consumption: 0.021882
+step: 13090, loss: 40.158615, time consumption: 0.021777
+step: 13100, loss: 24.340935, time consumption: 0.021592
+=> current epoch:  364
+step: 13110, loss: 46.586235, time consumption: 0.024016
+step: 13120, loss: 45.497505, time consumption: 0.021601
+step: 13130, loss: 45.245102, time consumption: 0.021133
+step: 13140, loss: 27.914017, time consumption: 0.022183
+=> current epoch:  365
+step: 13150, loss: 48.030094, time consumption: 0.022780
+step: 13160, loss: 40.346054, time consumption: 0.021815
+step: 13170, loss: 69.951736, time consumption: 0.021589
+=> current epoch:  366
+step: 13180, loss: 26.907711, time consumption: 0.020661
+step: 13190, loss: 38.894981, time consumption: 0.020881
+step: 13200, loss: 32.399273, time consumption: 0.021281
+step: 13210, loss: 50.618767, time consumption: 0.021309
+=> current epoch:  367
+step: 13220, loss: 67.671494, time consumption: 0.020497
+step: 13230, loss: 43.466461, time consumption: 0.022032
+step: 13240, loss: 44.094513, time consumption: 0.021432
+=> current epoch:  368
+step: 13250, loss: 37.500294, time consumption: 0.020749
+step: 13260, loss: 37.510052, time consumption: 0.022324
+step: 13270, loss: 64.837296, time consumption: 0.022209
+step: 13280, loss: 31.634298, time consumption: 0.021792
+=> current epoch:  369
+step: 13290, loss: 47.729019, time consumption: 0.020966
+step: 13300, loss: 35.533348, time consumption: 0.020769
+step: 13310, loss: 21.226501, time consumption: 0.020712
+step: 13320, loss: 19.605106, time consumption: 0.020671
+=> current epoch:  370
+step: 13330, loss: 14.544635, time consumption: 0.021559
+step: 13340, loss: 12.852061, time consumption: 0.022109
+step: 13350, loss: 44.969509, time consumption: 0.022017
+=> current epoch:  371
+step: 13360, loss: 43.323643, time consumption: 0.023961
+step: 13370, loss: 28.786598, time consumption: 0.021393
+step: 13380, loss: 34.518764, time consumption: 0.021861
+step: 13390, loss: 47.532448, time consumption: 0.021518
+=> current epoch:  372
+step: 13400, loss: 41.512505, time consumption: 0.020537
+step: 13410, loss: 29.797192, time consumption: 0.021184
+step: 13420, loss: 21.458862, time consumption: 0.021477
+=> current epoch:  373
+step: 13430, loss: 34.425163, time consumption: 0.020689
+step: 13440, loss: 27.198822, time consumption: 0.021977
+step: 13450, loss: 73.527046, time consumption: 0.021482
+step: 13460, loss: 48.210648, time consumption: 0.021224
+=> current epoch:  374
+step: 13470, loss: 58.681988, time consumption: 0.023530
+step: 13480, loss: 26.180077, time consumption: 0.021492
+step: 13490, loss: 43.418304, time consumption: 0.021111
+step: 13500, loss: 32.627274, time consumption: 0.021544
+=> current epoch:  375
+step: 13510, loss: 15.758402, time consumption: 0.024173
+step: 13520, loss: 30.159653, time consumption: 0.023312
+step: 13530, loss: 37.473114, time consumption: 0.022765
+=> current epoch:  376
+step: 13540, loss: 35.543091, time consumption: 0.020656
+step: 13550, loss: 20.893339, time consumption: 0.021782
+step: 13560, loss: 26.597000, time consumption: 0.022691
+step: 13570, loss: 43.360783, time consumption: 0.021969
+=> current epoch:  377
+step: 13580, loss: 16.583866, time consumption: 0.020914
+step: 13590, loss: 55.408733, time consumption: 0.022644
+step: 13600, loss: 60.498672, time consumption: 0.021895
+=> current epoch:  378
+step: 13610, loss: 28.677635, time consumption: 0.022040
+step: 13620, loss: 35.464512, time consumption: 0.021831
+step: 13630, loss: 21.746708, time consumption: 0.023016
+step: 13640, loss: 62.576416, time consumption: 0.022270
+=> current epoch:  379
+step: 13650, loss: 15.809475, time consumption: 0.021835
+step: 13660, loss: 22.480713, time consumption: 0.022348
+step: 13670, loss: 22.218662, time consumption: 0.021902
+step: 13680, loss: 58.680702, time consumption: 0.021415
+=> current epoch:  380
+step: 13690, loss: 72.761734, time consumption: 0.021630
+step: 13700, loss: 25.108967, time consumption: 0.022880
+step: 13710, loss: 41.807388, time consumption: 0.022501
+=> current epoch:  381
+step: 13720, loss: 16.417202, time consumption: 0.020995
+step: 13730, loss: 28.705427, time consumption: 0.020998
+step: 13740, loss: 51.786255, time consumption: 0.020905
+step: 13750, loss: 16.932653, time consumption: 0.021446
+=> current epoch:  382
+step: 13760, loss: 25.050634, time consumption: 0.020251
+step: 13770, loss: 31.981533, time consumption: 0.020226
+step: 13780, loss: 94.151222, time consumption: 0.020437
+=> current epoch:  383
+step: 13790, loss: 15.576622, time consumption: 0.020623
+step: 13800, loss: 61.006042, time consumption: 0.020148
+step: 13810, loss: 16.453531, time consumption: 0.020302
+step: 13820, loss: 81.093643, time consumption: 0.020624
+=> current epoch:  384
+step: 13830, loss: 23.043518, time consumption: 0.025952
+step: 13840, loss: 26.720150, time consumption: 0.023667
+step: 13850, loss: 87.040161, time consumption: 0.022834
+step: 13860, loss: 55.992374, time consumption: 0.022450
+=> current epoch:  385
+step: 13870, loss: 16.591520, time consumption: 0.021437
+step: 13880, loss: 35.268028, time consumption: 0.020913
+step: 13890, loss: 57.504654, time consumption: 0.021569
+=> current epoch:  386
+step: 13900, loss: 47.973015, time consumption: 0.021281
+step: 13910, loss: 14.272411, time consumption: 0.020352
+step: 13920, loss: 21.392653, time consumption: 0.020366
+step: 13930, loss: 21.361864, time consumption: 0.020683
+=> current epoch:  387
+step: 13940, loss: 22.545441, time consumption: 0.021909
+step: 13950, loss: 45.900784, time consumption: 0.023168
+step: 13960, loss: 62.891956, time consumption: 0.022644
+=> current epoch:  388
+step: 13970, loss: 46.161388, time consumption: 0.021184
+step: 13980, loss: 21.853458, time consumption: 0.022699
+step: 13990, loss: 14.685066, time consumption: 0.022038
+step: 14000, loss: 69.253944, time consumption: 0.021467
+=> current epoch:  389
+step: 14010, loss: 29.720060, time consumption: 0.020496
+step: 14020, loss: 69.937057, time consumption: 0.020768
+step: 14030, loss: 37.043659, time consumption: 0.021370
+step: 14040, loss: 14.184868, time consumption: 0.021117
+=> current epoch:  390
+step: 14050, loss: 16.547060, time consumption: 0.022695
+step: 14060, loss: 18.788088, time consumption: 0.022101
+step: 14070, loss: 24.626408, time consumption: 0.021666
+=> current epoch:  391
+step: 14080, loss: 96.503998, time consumption: 0.023608
+step: 14090, loss: 10.656375, time consumption: 0.021368
+step: 14100, loss: 49.324806, time consumption: 0.021118
+step: 14110, loss: 41.698090, time consumption: 0.020899
+=> current epoch:  392
+step: 14120, loss: 77.907455, time consumption: 0.020566
+step: 14130, loss: 16.705948, time consumption: 0.020305
+step: 14140, loss: 63.344841, time consumption: 0.021192
+=> current epoch:  393
+step: 14150, loss: 96.155357, time consumption: 0.021347
+step: 14160, loss: 56.146362, time consumption: 0.020069
+step: 14170, loss: 88.534210, time consumption: 0.020584
+step: 14180, loss: 33.557159, time consumption: 0.021376
+=> current epoch:  394
+step: 14190, loss: 53.770576, time consumption: 0.020205
+step: 14200, loss: 24.353489, time consumption: 0.021208
+step: 14210, loss: 64.559372, time consumption: 0.022338
+step: 14220, loss: 55.405487, time consumption: 0.022171
+=> current epoch:  395
+step: 14230, loss: 33.155357, time consumption: 0.020427
+step: 14240, loss: 65.022697, time consumption: 0.020785
+step: 14250, loss: 59.012306, time consumption: 0.021473
+=> current epoch:  396
+step: 14260, loss: 31.726166, time consumption: 0.019945
+step: 14270, loss: 32.118362, time consumption: 0.020745
+step: 14280, loss: 28.040356, time consumption: 0.020742
+step: 14290, loss: 18.936836, time consumption: 0.021353
+=> current epoch:  397
+step: 14300, loss: 102.984734, time consumption: 0.020815
+step: 14310, loss: 14.076829, time consumption: 0.021757
+step: 14320, loss: 24.747440, time consumption: 0.021871
+=> current epoch:  398
+step: 14330, loss: 60.744953, time consumption: 0.021513
+step: 14340, loss: 51.723297, time consumption: 0.020915
+step: 14350, loss: 41.847424, time consumption: 0.020937
+step: 14360, loss: 30.169886, time consumption: 0.020918
+=> current epoch:  399
+step: 14370, loss: 22.859970, time consumption: 0.020568
+step: 14380, loss: 26.359474, time consumption: 0.021469
+step: 14390, loss: 41.126354, time consumption: 0.021576
+step: 14400, loss: 20.614037, time consumption: 0.021875
+=> current epoch:  400
+step: 14410, loss: 23.750340, time consumption: 0.020738
+step: 14420, loss: 61.430878, time consumption: 0.021123
+step: 14430, loss: 21.427498, time consumption: 0.020983
+=> current epoch:  401
+step: 14440, loss: 25.161102, time consumption: 0.020197
+step: 14450, loss: 22.431602, time consumption: 0.020912
+step: 14460, loss: 55.804634, time consumption: 0.021879
+step: 14470, loss: 9.825970, time consumption: 0.022260
+=> current epoch:  402
+step: 14480, loss: 56.233582, time consumption: 0.020513
+step: 14490, loss: 16.762445, time consumption: 0.021274
+step: 14500, loss: 62.951401, time consumption: 0.021509
+=> current epoch:  403
+step: 14510, loss: 20.786900, time consumption: 0.019987
+step: 14520, loss: 19.551888, time consumption: 0.020490
+step: 14530, loss: 26.917835, time consumption: 0.021295
+step: 14540, loss: 21.579510, time consumption: 0.021126
+=> current epoch:  404
+step: 14550, loss: 72.464905, time consumption: 0.023613
+step: 14560, loss: 40.640305, time consumption: 0.021913
+step: 14570, loss: 33.738174, time consumption: 0.023916
+step: 14580, loss: 58.185825, time consumption: 0.023220
+=> current epoch:  405
+step: 14590, loss: 30.948017, time consumption: 0.020777
+step: 14600, loss: 54.092384, time consumption: 0.020892
+step: 14610, loss: 55.945992, time consumption: 0.021451
+=> current epoch:  406
+step: 14620, loss: 25.406906, time consumption: 0.020385
+step: 14630, loss: 31.143909, time consumption: 0.020418
+step: 14640, loss: 33.476692, time consumption: 0.021037
+step: 14650, loss: 29.737373, time consumption: 0.020848
+=> current epoch:  407
+step: 14660, loss: 49.601994, time consumption: 0.020496
+step: 14670, loss: 13.297981, time consumption: 0.020541
+step: 14680, loss: 28.044479, time consumption: 0.021011
+=> current epoch:  408
+step: 14690, loss: 28.062614, time consumption: 0.027255
+step: 14700, loss: 54.670429, time consumption: 0.021931
+step: 14710, loss: 18.652752, time consumption: 0.021862
+step: 14720, loss: 20.163317, time consumption: 0.021768
+=> current epoch:  409
+step: 14730, loss: 27.697830, time consumption: 0.021337
+step: 14740, loss: 44.309208, time consumption: 0.022718
+step: 14750, loss: 21.273426, time consumption: 0.021896
+step: 14760, loss: 14.369527, time consumption: 0.021628
+=> current epoch:  410
+step: 14770, loss: 58.040794, time consumption: 0.024562
+step: 14780, loss: 23.718330, time consumption: 0.022781
+step: 14790, loss: 43.247566, time consumption: 0.022505
+=> current epoch:  411
+step: 14800, loss: 38.566406, time consumption: 0.020720
+step: 14810, loss: 49.997070, time consumption: 0.024193
+step: 14820, loss: 50.397518, time consumption: 0.023161
+step: 14830, loss: 55.897995, time consumption: 0.022610
+=> current epoch:  412
+step: 14840, loss: 25.091022, time consumption: 0.020725
+step: 14850, loss: 27.988541, time consumption: 0.020481
+step: 14860, loss: 32.386162, time consumption: 0.021505
+=> current epoch:  413
+step: 14870, loss: 35.579002, time consumption: 0.021229
+step: 14880, loss: 51.823631, time consumption: 0.022901
+step: 14890, loss: 40.950893, time consumption: 0.022389
+step: 14900, loss: 54.801117, time consumption: 0.021796
+=> current epoch:  414
+step: 14910, loss: 36.319519, time consumption: 0.020755
+step: 14920, loss: 13.317504, time consumption: 0.020665
+step: 14930, loss: 24.325098, time consumption: 0.020630
+step: 14940, loss: 42.058311, time consumption: 0.020895
+=> current epoch:  415
+step: 14950, loss: 21.193439, time consumption: 0.020208
+step: 14960, loss: 54.545982, time consumption: 0.020447
+step: 14970, loss: 26.303864, time consumption: 0.020448
+=> current epoch:  416
+step: 14980, loss: 55.378738, time consumption: 0.023021
+step: 14990, loss: 58.422478, time consumption: 0.022217
+step: 15000, loss: 41.951786, time consumption: 0.024008
+step: 15010, loss: 31.508141, time consumption: 0.139575
+=> current epoch:  417
+step: 15020, loss: 29.503040, time consumption: 0.020585
+step: 15030, loss: 57.361050, time consumption: 0.024138
+step: 15040, loss: 80.482277, time consumption: 0.022864
+=> current epoch:  418
+step: 15050, loss: 39.828362, time consumption: 0.022585
+step: 15060, loss: 37.932137, time consumption: 0.020590
+step: 15070, loss: 57.077450, time consumption: 0.021562
+step: 15080, loss: 24.149874, time consumption: 0.022819
+=> current epoch:  419
+step: 15090, loss: 54.942177, time consumption: 0.020157
+step: 15100, loss: 30.603443, time consumption: 0.021415
+step: 15110, loss: 29.357498, time consumption: 0.022867
+step: 15120, loss: 38.464867, time consumption: 0.022868
+=> current epoch:  420
+step: 15130, loss: 65.422256, time consumption: 0.020833
+step: 15140, loss: 40.550850, time consumption: 0.020393
+step: 15150, loss: 20.415865, time consumption: 0.021014
+=> current epoch:  421
+step: 15160, loss: 26.026947, time consumption: 0.024364
+step: 15170, loss: 80.492264, time consumption: 0.021566
+step: 15180, loss: 60.399696, time consumption: 0.022821
+step: 15190, loss: 23.374947, time consumption: 0.022522
+=> current epoch:  422
+step: 15200, loss: 24.375559, time consumption: 0.020492
+step: 15210, loss: 23.331211, time consumption: 0.020373
+step: 15220, loss: 24.414421, time consumption: 0.020258
+=> current epoch:  423
+step: 15230, loss: 25.879267, time consumption: 0.020156
+step: 15240, loss: 48.249847, time consumption: 0.025016
+step: 15250, loss: 59.421387, time consumption: 0.022538
+step: 15260, loss: 21.413095, time consumption: 0.022389
+=> current epoch:  424
+step: 15270, loss: 26.635294, time consumption: 0.019971
+step: 15280, loss: 39.087749, time consumption: 0.021065
+step: 15290, loss: 101.975937, time consumption: 0.021365
+step: 15300, loss: 44.339561, time consumption: 0.021440
+=> current epoch:  425
+step: 15310, loss: 42.230331, time consumption: 0.021253
+step: 15320, loss: 26.134497, time consumption: 0.023625
+step: 15330, loss: 27.637335, time consumption: 0.022426
+=> current epoch:  426
+step: 15340, loss: 68.917847, time consumption: 0.021123
+step: 15350, loss: 21.276083, time consumption: 0.021460
+step: 15360, loss: 28.427223, time consumption: 0.021260
+step: 15370, loss: 69.717438, time consumption: 0.021471
+=> current epoch:  427
+step: 15380, loss: 15.299540, time consumption: 0.020210
+step: 15390, loss: 31.883116, time consumption: 0.021004
+step: 15400, loss: 36.588715, time consumption: 0.020824
+=> current epoch:  428
+step: 15410, loss: 66.351555, time consumption: 0.020560
+step: 15420, loss: 51.110100, time consumption: 0.022975
+step: 15430, loss: 30.986330, time consumption: 0.021806
+step: 15440, loss: 14.510537, time consumption: 0.022107
+=> current epoch:  429
+step: 15450, loss: 31.782230, time consumption: 0.020460
+step: 15460, loss: 37.921005, time consumption: 0.023847
+step: 15470, loss: 22.689312, time consumption: 0.022490
+step: 15480, loss: 67.361298, time consumption: 0.022082
+=> current epoch:  430
+step: 15490, loss: 54.475636, time consumption: 0.020950
+step: 15500, loss: 30.286406, time consumption: 0.020938
+step: 15510, loss: 22.568026, time consumption: 0.153655
+=> current epoch:  431
+step: 15520, loss: 31.894037, time consumption: 0.020558
+step: 15530, loss: 47.079475, time consumption: 0.020463
+step: 15540, loss: 44.214787, time consumption: 0.021024
+step: 15550, loss: 23.845453, time consumption: 0.021166
+=> current epoch:  432
+step: 15560, loss: 38.042992, time consumption: 0.021787
+step: 15570, loss: 24.077761, time consumption: 0.021888
+step: 15580, loss: 24.312462, time consumption: 0.022575
+=> current epoch:  433
+step: 15590, loss: 37.833347, time consumption: 0.019237
+step: 15600, loss: 38.579361, time consumption: 0.020312
+step: 15610, loss: 36.452057, time consumption: 0.021078
+step: 15620, loss: 25.160210, time consumption: 0.020903
+=> current epoch:  434
+step: 15630, loss: 37.577126, time consumption: 0.020370
+step: 15640, loss: 33.917530, time consumption: 0.020579
+step: 15650, loss: 17.954050, time consumption: 0.021577
+step: 15660, loss: 23.462318, time consumption: 0.022849
+=> current epoch:  435
+step: 15670, loss: 20.819195, time consumption: 0.020772
+step: 15680, loss: 91.219055, time consumption: 0.021798
+step: 15690, loss: 51.901573, time consumption: 0.021241
+=> current epoch:  436
+step: 15700, loss: 86.450737, time consumption: 0.020635
+step: 15710, loss: 70.512985, time consumption: 0.021284
+step: 15720, loss: 32.377434, time consumption: 0.022242
+step: 15730, loss: 16.203598, time consumption: 0.022135
+=> current epoch:  437
+step: 15740, loss: 50.957642, time consumption: 0.021846
+step: 15750, loss: 20.960171, time consumption: 0.020992
+step: 15760, loss: 24.321684, time consumption: 0.021241
+=> current epoch:  438
+step: 15770, loss: 33.849827, time consumption: 0.020947
+step: 15780, loss: 14.163015, time consumption: 0.021231
+step: 15790, loss: 46.067028, time consumption: 0.021257
+step: 15800, loss: 31.579540, time consumption: 0.021448
+=> current epoch:  439
+step: 15810, loss: 64.612953, time consumption: 0.020114
+step: 15820, loss: 46.116306, time consumption: 0.021129
+step: 15830, loss: 30.529205, time consumption: 0.020949
+step: 15840, loss: 10.957710, time consumption: 0.021001
+=> current epoch:  440
+step: 15850, loss: 15.337057, time consumption: 0.023668
+step: 15860, loss: 26.840509, time consumption: 0.022444
+step: 15870, loss: 25.838816, time consumption: 0.021723
+=> current epoch:  441
+step: 15880, loss: 31.659515, time consumption: 0.020664
+step: 15890, loss: 28.127205, time consumption: 0.021242
+step: 15900, loss: 29.936565, time consumption: 0.020959
+step: 15910, loss: 34.348766, time consumption: 0.020939
+=> current epoch:  442
+step: 15920, loss: 59.077423, time consumption: 0.020932
+step: 15930, loss: 32.347702, time consumption: 0.021004
+step: 15940, loss: 15.086205, time consumption: 0.020910
+=> current epoch:  443
+step: 15950, loss: 22.658798, time consumption: 0.021498
+step: 15960, loss: 66.211029, time consumption: 0.021074
+step: 15970, loss: 15.343303, time consumption: 0.020848
+step: 15980, loss: 24.418406, time consumption: 0.020713
+=> current epoch:  444
+step: 15990, loss: 17.148842, time consumption: 0.021232
+step: 16000, loss: 39.898125, time consumption: 0.021761
+step: 16010, loss: 16.205988, time consumption: 0.176026
+step: 16020, loss: 24.800934, time consumption: 0.134260
+=> current epoch:  445
+step: 16030, loss: 19.767950, time consumption: 0.020017
+step: 16040, loss: 37.455524, time consumption: 0.020893
+step: 16050, loss: 42.164764, time consumption: 0.021134
+=> current epoch:  446
+step: 16060, loss: 34.540020, time consumption: 0.020612
+step: 16070, loss: 31.040264, time consumption: 0.021440
+step: 16080, loss: 29.975121, time consumption: 0.021356
+step: 16090, loss: 19.726173, time consumption: 0.022338
+=> current epoch:  447
+step: 16100, loss: 23.097523, time consumption: 0.021362
+step: 16110, loss: 31.746773, time consumption: 0.021106
+step: 16120, loss: 9.210373, time consumption: 0.020835
+=> current epoch:  448
+step: 16130, loss: 26.153946, time consumption: 0.022032
+step: 16140, loss: 45.470505, time consumption: 0.020891
+step: 16150, loss: 16.147322, time consumption: 0.020622
+step: 16160, loss: 37.159981, time consumption: 0.020601
+=> current epoch:  449
+step: 16170, loss: 17.786228, time consumption: 0.021519
+step: 16180, loss: 17.340452, time consumption: 0.021125
+step: 16190, loss: 18.171562, time consumption: 0.021055
+step: 16200, loss: 21.702801, time consumption: 0.021535
+=> current epoch:  450
+step: 16210, loss: 30.672327, time consumption: 0.020475
+step: 16220, loss: 29.239319, time consumption: 0.021429
+step: 16230, loss: 46.168217, time consumption: 0.021143
+=> current epoch:  451
+step: 16240, loss: 57.354389, time consumption: 0.020455
+step: 16250, loss: 69.965996, time consumption: 0.021058
+step: 16260, loss: 16.688969, time consumption: 0.021425
+step: 16270, loss: 46.732887, time consumption: 0.021175
+=> current epoch:  452
+step: 16280, loss: 59.746483, time consumption: 0.022759
+step: 16290, loss: 34.236996, time consumption: 0.022588
+step: 16300, loss: 34.337135, time consumption: 0.021793
+=> current epoch:  453
+step: 16310, loss: 57.173107, time consumption: 0.020870
+step: 16320, loss: 40.871464, time consumption: 0.022948
+step: 16330, loss: 19.369789, time consumption: 0.022011
+step: 16340, loss: 38.072544, time consumption: 0.022830
+=> current epoch:  454
+step: 16350, loss: 58.954014, time consumption: 0.020392
+step: 16360, loss: 37.548553, time consumption: 0.020578
+step: 16370, loss: 19.238876, time consumption: 0.021242
+step: 16380, loss: 63.359951, time consumption: 0.021443
+=> current epoch:  455
+step: 16390, loss: 33.287220, time consumption: 0.020339
+step: 16400, loss: 20.072937, time consumption: 0.020587
+step: 16410, loss: 23.947887, time consumption: 0.022402
+=> current epoch:  456
+step: 16420, loss: 15.016321, time consumption: 0.020870
+step: 16430, loss: 41.935802, time consumption: 0.021545
+step: 16440, loss: 37.643532, time consumption: 0.021646
+step: 16450, loss: 15.806614, time consumption: 0.021794
+=> current epoch:  457
+step: 16460, loss: 36.552444, time consumption: 0.020111
+step: 16470, loss: 30.384546, time consumption: 0.020651
+step: 16480, loss: 59.003712, time consumption: 0.020960
+=> current epoch:  458
+step: 16490, loss: 21.811829, time consumption: 0.025383
+step: 16500, loss: 22.113081, time consumption: 0.021691
+step: 16510, loss: 46.627274, time consumption: 0.203332
+step: 16520, loss: 26.349628, time consumption: 0.147233
+=> current epoch:  459
+step: 16530, loss: 15.180825, time consumption: 0.021317
+step: 16540, loss: 38.799099, time consumption: 0.022794
+step: 16550, loss: 34.531792, time consumption: 0.021922
+step: 16560, loss: 54.187630, time consumption: 0.021975
+=> current epoch:  460
+step: 16570, loss: 30.054342, time consumption: 0.026460
+step: 16580, loss: 13.421501, time consumption: 0.024178
+step: 16590, loss: 25.972445, time consumption: 0.023012
+=> current epoch:  461
+step: 16600, loss: 36.328049, time consumption: 0.019903
+step: 16610, loss: 36.730888, time consumption: 0.023643
+step: 16620, loss: 19.394106, time consumption: 0.022509
+step: 16630, loss: 78.182747, time consumption: 0.022339
+=> current epoch:  462
+step: 16640, loss: 47.352333, time consumption: 0.023484
+step: 16650, loss: 45.670383, time consumption: 0.022620
+step: 16660, loss: 43.353676, time consumption: 0.022482
+=> current epoch:  463
+step: 16670, loss: 56.386688, time consumption: 0.023703
+step: 16680, loss: 45.163227, time consumption: 0.023941
+step: 16690, loss: 19.973148, time consumption: 0.024048
+step: 16700, loss: 20.404644, time consumption: 0.022880
+=> current epoch:  464
+step: 16710, loss: 31.921103, time consumption: 0.020810
+step: 16720, loss: 63.727913, time consumption: 0.021293
+step: 16730, loss: 16.386547, time consumption: 0.023174
+step: 16740, loss: 14.663531, time consumption: 0.022682
+=> current epoch:  465
+step: 16750, loss: 24.556103, time consumption: 0.024100
+step: 16760, loss: 18.884949, time consumption: 0.023046
+step: 16770, loss: 39.996918, time consumption: 0.022871
+=> current epoch:  466
+step: 16780, loss: 36.282539, time consumption: 0.020820
+step: 16790, loss: 19.600426, time consumption: 0.020374
+step: 16800, loss: 29.121939, time consumption: 0.021025
+step: 16810, loss: 45.002960, time consumption: 0.021027
+=> current epoch:  467
+step: 16820, loss: 45.080692, time consumption: 0.020860
+step: 16830, loss: 19.292681, time consumption: 0.020687
+step: 16840, loss: 10.860006, time consumption: 0.021027
+=> current epoch:  468
+step: 16850, loss: 31.667881, time consumption: 0.020688
+step: 16860, loss: 25.341915, time consumption: 0.021062
+step: 16870, loss: 12.973193, time consumption: 0.021195
+step: 16880, loss: 33.968861, time consumption: 0.021218
+=> current epoch:  469
+step: 16890, loss: 28.909721, time consumption: 0.021181
+step: 16900, loss: 34.752144, time consumption: 0.021031
+step: 16910, loss: 28.241875, time consumption: 0.021147
+step: 16920, loss: 26.911459, time consumption: 0.021061
+=> current epoch:  470
+step: 16930, loss: 41.788082, time consumption: 0.021669
+step: 16940, loss: 49.155373, time consumption: 0.021655
+step: 16950, loss: 43.872623, time consumption: 0.021182
+=> current epoch:  471
+step: 16960, loss: 39.036591, time consumption: 0.020385
+step: 16970, loss: 47.499962, time consumption: 0.020327
+step: 16980, loss: 39.990311, time consumption: 0.020297
+step: 16990, loss: 22.437754, time consumption: 0.020898
+=> current epoch:  472
+step: 17000, loss: 41.004635, time consumption: 0.026784
+step: 17010, loss: 52.460361, time consumption: 0.349894
+step: 17020, loss: 34.072891, time consumption: 0.232989
+=> current epoch:  473
+step: 17030, loss: 27.582504, time consumption: 0.021874
+step: 17040, loss: 12.202579, time consumption: 0.023059
+step: 17050, loss: 31.393873, time consumption: 0.023167
+step: 17060, loss: 61.302715, time consumption: 0.022910
+=> current epoch:  474
+step: 17070, loss: 18.883715, time consumption: 0.031549
+step: 17080, loss: 22.894953, time consumption: 0.025500
+step: 17090, loss: 12.819754, time consumption: 0.023531
+step: 17100, loss: 57.013454, time consumption: 0.022750
+=> current epoch:  475
+step: 17110, loss: 30.302240, time consumption: 0.024906
+step: 17120, loss: 60.236107, time consumption: 0.023710
+step: 17130, loss: 46.966305, time consumption: 0.022784
+=> current epoch:  476
+step: 17140, loss: 13.579821, time consumption: 0.021190
+step: 17150, loss: 26.876263, time consumption: 0.021599
+step: 17160, loss: 17.976921, time consumption: 0.022257
+step: 17170, loss: 24.298420, time consumption: 0.022821
+=> current epoch:  477
+step: 17180, loss: 27.250366, time consumption: 0.021617
+step: 17190, loss: 33.092236, time consumption: 0.021709
+step: 17200, loss: 44.449112, time consumption: 0.021980
+=> current epoch:  478
+step: 17210, loss: 13.208189, time consumption: 0.020719
+step: 17220, loss: 42.004410, time consumption: 0.024030
+step: 17230, loss: 29.999470, time consumption: 0.022507
+step: 17240, loss: 71.120438, time consumption: 0.022307
+=> current epoch:  479
+step: 17250, loss: 43.351200, time consumption: 0.021170
+step: 17260, loss: 37.788700, time consumption: 0.020846
+step: 17270, loss: 39.735542, time consumption: 0.020691
+step: 17280, loss: 26.206165, time consumption: 0.021558
+=> current epoch:  480
+step: 17290, loss: 33.436615, time consumption: 0.022119
+step: 17300, loss: 34.049587, time consumption: 0.021461
+step: 17310, loss: 24.376783, time consumption: 0.021324
+=> current epoch:  481
+step: 17320, loss: 28.695129, time consumption: 0.020423
+step: 17330, loss: 16.448614, time consumption: 0.020605
+step: 17340, loss: 46.913372, time consumption: 0.021736
+step: 17350, loss: 27.946224, time consumption: 0.022303
+=> current epoch:  482
+step: 17360, loss: 33.657528, time consumption: 0.023918
+step: 17370, loss: 35.330799, time consumption: 0.022234
+step: 17380, loss: 34.898056, time consumption: 0.022494
+=> current epoch:  483
+step: 17390, loss: 16.496620, time consumption: 0.021031
+step: 17400, loss: 15.090780, time consumption: 0.020654
+step: 17410, loss: 22.100672, time consumption: 0.020779
+step: 17420, loss: 19.972134, time consumption: 0.021170
+=> current epoch:  484
+step: 17430, loss: 26.503656, time consumption: 0.020974
+step: 17440, loss: 54.284149, time consumption: 0.020893
+step: 17450, loss: 35.470078, time consumption: 0.021889
+step: 17460, loss: 38.675941, time consumption: 0.021598
+=> current epoch:  485
+step: 17470, loss: 25.297726, time consumption: 0.020394
+step: 17480, loss: 50.950851, time consumption: 0.020785
+step: 17490, loss: 71.035362, time consumption: 0.020906
+=> current epoch:  486
+step: 17500, loss: 94.538834, time consumption: 0.021660
+step: 17510, loss: 57.263245, time consumption: 0.298312
+step: 17520, loss: 28.786617, time consumption: 0.182468
+step: 17530, loss: 66.899719, time consumption: 0.135348
+=> current epoch:  487
+step: 17540, loss: 30.739307, time consumption: 0.020467
+step: 17550, loss: 68.727493, time consumption: 0.020330
+step: 17560, loss: 33.850956, time consumption: 0.020488
+=> current epoch:  488
+step: 17570, loss: 13.192678, time consumption: 0.029865
+step: 17580, loss: 20.528934, time consumption: 0.025924
+step: 17590, loss: 17.907761, time consumption: 0.023464
+step: 17600, loss: 26.392311, time consumption: 0.022518
+=> current epoch:  489
+step: 17610, loss: 38.534222, time consumption: 0.027228
+step: 17620, loss: 23.914089, time consumption: 0.023271
+step: 17630, loss: 28.700363, time consumption: 0.023633
+step: 17640, loss: 20.822725, time consumption: 0.023018
+=> current epoch:  490
+step: 17650, loss: 10.092182, time consumption: 0.022039
+step: 17660, loss: 12.261371, time consumption: 0.021320
+step: 17670, loss: 74.358170, time consumption: 0.021409
+=> current epoch:  491
+step: 17680, loss: 41.318012, time consumption: 0.022810
+step: 17690, loss: 17.481890, time consumption: 0.022522
+step: 17700, loss: 22.094936, time consumption: 0.022607
+step: 17710, loss: 18.867664, time consumption: 0.022451
+=> current epoch:  492
+step: 17720, loss: 64.088821, time consumption: 0.020930
+step: 17730, loss: 31.642920, time consumption: 0.020637
+step: 17740, loss: 37.559425, time consumption: 0.021824
+=> current epoch:  493
+step: 17750, loss: 47.445930, time consumption: 0.021550
+step: 17760, loss: 10.300574, time consumption: 0.021838
+step: 17770, loss: 48.205482, time consumption: 0.021834
+step: 17780, loss: 25.050739, time consumption: 0.022537
+=> current epoch:  494
+step: 17790, loss: 45.309784, time consumption: 0.020779
+step: 17800, loss: 25.458921, time consumption: 0.021206
+step: 17810, loss: 16.319506, time consumption: 0.021643
+step: 17820, loss: 13.765629, time consumption: 0.022984
+=> current epoch:  495
+step: 17830, loss: 15.880394, time consumption: 0.020906
+step: 17840, loss: 10.155869, time consumption: 0.020735
+step: 17850, loss: 43.427559, time consumption: 0.021188
+=> current epoch:  496
+step: 17860, loss: 43.384903, time consumption: 0.020414
+step: 17870, loss: 19.731470, time consumption: 0.020882
+step: 17880, loss: 17.316483, time consumption: 0.021424
+step: 17890, loss: 33.220985, time consumption: 0.021369
+=> current epoch:  497
+step: 17900, loss: 41.252472, time consumption: 0.020767
+step: 17910, loss: 40.098434, time consumption: 0.021551
+step: 17920, loss: 15.452488, time consumption: 0.021711
+=> current epoch:  498
+step: 17930, loss: 30.014282, time consumption: 0.021794
+step: 17940, loss: 13.034088, time consumption: 0.020103
+step: 17950, loss: 44.063076, time consumption: 0.020627
+step: 17960, loss: 44.488873, time consumption: 0.021123
+=> current epoch:  499
+step: 17970, loss: 63.415657, time consumption: 0.020603
+step: 17980, loss: 32.466267, time consumption: 0.020539
+step: 17990, loss: 27.430429, time consumption: 0.020517
+step: 18000, loss: 28.833485, time consumption: 0.020823
+=> current epoch:  500
+step: 18010, loss: 11.810222, time consumption: 0.026065
+step: 18020, loss: 15.349464, time consumption: 0.024281
+step: 18030, loss: 60.602570, time consumption: 0.023639
+=> current epoch:  501
+step: 18040, loss: 36.969635, time consumption: 0.019717
+step: 18050, loss: 11.004801, time consumption: 0.021077
+step: 18060, loss: 29.911053, time consumption: 0.021161
+step: 18070, loss: 46.315750, time consumption: 0.022071
+=> current epoch:  502
+step: 18080, loss: 61.211998, time consumption: 0.020350
+step: 18090, loss: 26.090208, time consumption: 0.020578
+step: 18100, loss: 28.546780, time consumption: 0.021297
+=> current epoch:  503
+step: 18110, loss: 29.015640, time consumption: 0.020114
+step: 18120, loss: 28.112534, time consumption: 0.020313
+step: 18130, loss: 20.319906, time consumption: 0.020810
+step: 18140, loss: 30.443565, time consumption: 0.021874
+=> current epoch:  504
+step: 18150, loss: 27.633440, time consumption: 0.024103
+step: 18160, loss: 50.481812, time consumption: 0.021791
+step: 18170, loss: 22.313620, time consumption: 0.022302
+step: 18180, loss: 30.195602, time consumption: 0.022178
+=> current epoch:  505
+step: 18190, loss: 17.107634, time consumption: 0.023515
+step: 18200, loss: 29.777054, time consumption: 0.022044
+step: 18210, loss: 31.511192, time consumption: 0.021749
+=> current epoch:  506
+step: 18220, loss: 37.006325, time consumption: 0.020824
+step: 18230, loss: 91.790253, time consumption: 0.021518
+step: 18240, loss: 47.570950, time consumption: 0.022081
+step: 18250, loss: 48.522228, time consumption: 0.022264
+=> current epoch:  507
+step: 18260, loss: 17.272320, time consumption: 0.022620
+step: 18270, loss: 33.386337, time consumption: 0.021831
+step: 18280, loss: 27.769747, time consumption: 0.022068
+=> current epoch:  508
+step: 18290, loss: 33.905998, time consumption: 0.027377
+step: 18300, loss: 21.007174, time consumption: 0.022793
+step: 18310, loss: 54.558296, time consumption: 0.021806
+step: 18320, loss: 19.884329, time consumption: 0.021612
+=> current epoch:  509
+step: 18330, loss: 19.406097, time consumption: 0.020660
+step: 18340, loss: 48.340164, time consumption: 0.021281
+step: 18350, loss: 16.201378, time consumption: 0.021350
+step: 18360, loss: 14.929560, time consumption: 0.021078
+=> current epoch:  510
+step: 18370, loss: 50.295166, time consumption: 0.022007
+step: 18380, loss: 27.269691, time consumption: 0.021639
+step: 18390, loss: 43.158562, time consumption: 0.023432
+=> current epoch:  511
+step: 18400, loss: 37.990555, time consumption: 0.020515
+step: 18410, loss: 24.090454, time consumption: 0.020592
+step: 18420, loss: 17.065968, time consumption: 0.020641
+step: 18430, loss: 30.960247, time consumption: 0.021570
+=> current epoch:  512
+step: 18440, loss: 16.370401, time consumption: 0.021040
+step: 18450, loss: 24.792446, time consumption: 0.021439
+step: 18460, loss: 31.258329, time consumption: 0.023409
+=> current epoch:  513
+step: 18470, loss: 35.936569, time consumption: 0.020572
+step: 18480, loss: 21.127125, time consumption: 0.020215
+step: 18490, loss: 42.770527, time consumption: 0.020328
+step: 18500, loss: 11.497726, time consumption: 0.020455
+=> current epoch:  514
+step: 18510, loss: 18.391020, time consumption: 0.020873
+step: 18520, loss: 61.571323, time consumption: 0.020634
+step: 18530, loss: 26.055134, time consumption: 0.020644
+step: 18540, loss: 25.277615, time consumption: 0.020950
+=> current epoch:  515
+step: 18550, loss: 15.792490, time consumption: 0.023619
+step: 18560, loss: 22.216324, time consumption: 0.022233
+step: 18570, loss: 49.455418, time consumption: 0.022076
+=> current epoch:  516
+step: 18580, loss: 62.755859, time consumption: 0.023030
+step: 18590, loss: 12.980348, time consumption: 0.021349
+step: 18600, loss: 40.339527, time consumption: 0.021496
+step: 18610, loss: 78.624855, time consumption: 0.021620
+=> current epoch:  517
+step: 18620, loss: 21.758410, time consumption: 0.024002
+step: 18630, loss: 39.695278, time consumption: 0.022598
+step: 18640, loss: 15.505439, time consumption: 0.022816
+=> current epoch:  518
+step: 18650, loss: 19.306759, time consumption: 0.019437
+step: 18660, loss: 63.963432, time consumption: 0.021334
+step: 18670, loss: 61.855610, time consumption: 0.022671
+step: 18680, loss: 50.008423, time consumption: 0.022582
+=> current epoch:  519
+step: 18690, loss: 67.477325, time consumption: 0.020730
+step: 18700, loss: 59.209732, time consumption: 0.022443
+step: 18710, loss: 39.457222, time consumption: 0.021660
+step: 18720, loss: 17.650995, time consumption: 0.021857
+=> current epoch:  520
+step: 18730, loss: 36.387203, time consumption: 0.020568
+step: 18740, loss: 28.636213, time consumption: 0.020858
+step: 18750, loss: 41.786896, time consumption: 0.020725
+=> current epoch:  521
+step: 18760, loss: 48.847595, time consumption: 0.020124
+step: 18770, loss: 11.896829, time consumption: 0.022040
+step: 18780, loss: 20.348522, time consumption: 0.022839
+step: 18790, loss: 30.098007, time consumption: 0.022442
+=> current epoch:  522
+step: 18800, loss: 21.949709, time consumption: 0.021730
+step: 18810, loss: 41.174271, time consumption: 0.021883
+step: 18820, loss: 40.273071, time consumption: 0.021622
+=> current epoch:  523
+step: 18830, loss: 36.727261, time consumption: 0.019736
+step: 18840, loss: 34.963482, time consumption: 0.021183
+step: 18850, loss: 32.205223, time consumption: 0.021159
+step: 18860, loss: 101.574570, time consumption: 0.021144
+=> current epoch:  524
+step: 18870, loss: 33.268581, time consumption: 0.023233
+step: 18880, loss: 26.145458, time consumption: 0.022198
+step: 18890, loss: 40.902611, time consumption: 0.022174
+step: 18900, loss: 55.193157, time consumption: 0.021727
+=> current epoch:  525
+step: 18910, loss: 44.141556, time consumption: 0.020812
+step: 18920, loss: 35.642868, time consumption: 0.021022
+step: 18930, loss: 32.638599, time consumption: 0.022097
+=> current epoch:  526
+step: 18940, loss: 27.661938, time consumption: 0.025955
+step: 18950, loss: 37.083118, time consumption: 0.023915
+step: 18960, loss: 34.748871, time consumption: 0.023363
+step: 18970, loss: 20.492758, time consumption: 0.022439
+=> current epoch:  527
+step: 18980, loss: 30.875044, time consumption: 0.023768
+step: 18990, loss: 52.042747, time consumption: 0.021853
+step: 19000, loss: 29.819828, time consumption: 0.021313
+=> current epoch:  528
+step: 19010, loss: 29.649811, time consumption: 0.020777
+step: 19020, loss: 20.471882, time consumption: 0.020811
+step: 19030, loss: 48.210938, time consumption: 0.020343
+step: 19040, loss: 27.842819, time consumption: 0.021144
+=> current epoch:  529
+step: 19050, loss: 38.558968, time consumption: 0.020427
+step: 19060, loss: 53.492039, time consumption: 0.020644
+step: 19070, loss: 42.942276, time consumption: 0.021216
+step: 19080, loss: 30.917240, time consumption: 0.021237
+=> current epoch:  530
+step: 19090, loss: 22.501942, time consumption: 0.022784
+step: 19100, loss: 25.700396, time consumption: 0.021824
+step: 19110, loss: 44.708843, time consumption: 0.021320
+=> current epoch:  531
+step: 19120, loss: 35.390808, time consumption: 0.023423
+step: 19130, loss: 48.500320, time consumption: 0.021933
+step: 19140, loss: 24.600616, time consumption: 0.022030
+step: 19150, loss: 26.245831, time consumption: 0.021709
+=> current epoch:  532
+step: 19160, loss: 54.122478, time consumption: 0.024028
+step: 19170, loss: 56.921246, time consumption: 0.022782
+step: 19180, loss: 49.679817, time consumption: 0.022054
+=> current epoch:  533
+step: 19190, loss: 55.874626, time consumption: 0.026036
+step: 19200, loss: 41.058693, time consumption: 0.023530
+step: 19210, loss: 25.268997, time consumption: 0.022630
+step: 19220, loss: 36.682365, time consumption: 0.021995
+=> current epoch:  534
+step: 19230, loss: 20.553680, time consumption: 0.026441
+step: 19240, loss: 55.393166, time consumption: 0.023812
+step: 19250, loss: 30.632994, time consumption: 0.022386
+step: 19260, loss: 44.955776, time consumption: 0.022567
+=> current epoch:  535
+step: 19270, loss: 19.628468, time consumption: 0.024124
+step: 19280, loss: 20.545883, time consumption: 0.022086
+step: 19290, loss: 20.469421, time consumption: 0.021751
+=> current epoch:  536
+step: 19300, loss: 30.586451, time consumption: 0.020318
+step: 19310, loss: 56.853546, time consumption: 0.022170
+step: 19320, loss: 15.077042, time consumption: 0.021534
+step: 19330, loss: 37.964027, time consumption: 0.021944
+=> current epoch:  537
+step: 19340, loss: 21.080173, time consumption: 0.022410
+step: 19350, loss: 14.073770, time consumption: 0.022437
+step: 19360, loss: 43.798943, time consumption: 0.021847
+=> current epoch:  538
+step: 19370, loss: 19.195068, time consumption: 0.020775
+step: 19380, loss: 36.773293, time consumption: 0.020254
+step: 19390, loss: 19.432037, time consumption: 0.021314
+step: 19400, loss: 19.790504, time consumption: 0.021624
+=> current epoch:  539
+step: 19410, loss: 26.305202, time consumption: 0.020493
+step: 19420, loss: 33.540901, time consumption: 0.020621
+step: 19430, loss: 21.914680, time consumption: 0.020720
+step: 19440, loss: 14.320309, time consumption: 0.020967
+=> current epoch:  540
+step: 19450, loss: 52.169037, time consumption: 0.020599
+step: 19460, loss: 40.179077, time consumption: 0.021512
+step: 19470, loss: 25.879866, time consumption: 0.021642
+=> current epoch:  541
+step: 19480, loss: 34.030457, time consumption: 0.019977
+step: 19490, loss: 23.621006, time consumption: 0.020328
+step: 19500, loss: 44.458603, time consumption: 0.021053
+step: 19510, loss: 55.994736, time consumption: 0.138679
+=> current epoch:  542
+step: 19520, loss: 37.074333, time consumption: 0.020343
+step: 19530, loss: 89.176224, time consumption: 0.022737
+step: 19540, loss: 78.650093, time consumption: 0.022642
+=> current epoch:  543
+step: 19550, loss: 29.235895, time consumption: 0.030981
+step: 19560, loss: 33.933167, time consumption: 0.026318
+step: 19570, loss: 31.728872, time consumption: 0.023940
+step: 19580, loss: 20.334492, time consumption: 0.022965
+=> current epoch:  544
+step: 19590, loss: 11.046940, time consumption: 0.020759
+step: 19600, loss: 55.558910, time consumption: 0.021639
+step: 19610, loss: 31.594275, time consumption: 0.021633
+step: 19620, loss: 19.718153, time consumption: 0.021381
+=> current epoch:  545
+step: 19630, loss: 22.180559, time consumption: 0.021695
+step: 19640, loss: 29.066544, time consumption: 0.020958
+step: 19650, loss: 22.396658, time consumption: 0.020895
+=> current epoch:  546
+step: 19660, loss: 13.619491, time consumption: 0.030663
+step: 19670, loss: 19.489285, time consumption: 0.024242
+step: 19680, loss: 12.996119, time consumption: 0.023970
+step: 19690, loss: 14.152526, time consumption: 0.023397
+=> current epoch:  547
+step: 19700, loss: 26.021358, time consumption: 0.020476
+step: 19710, loss: 41.467255, time consumption: 0.022705
+step: 19720, loss: 24.352423, time consumption: 0.022139
+=> current epoch:  548
+step: 19730, loss: 54.765499, time consumption: 0.021197
+step: 19740, loss: 23.910349, time consumption: 0.020243
+step: 19750, loss: 80.982452, time consumption: 0.020701
+step: 19760, loss: 34.998405, time consumption: 0.020884
+=> current epoch:  549
+step: 19770, loss: 26.811472, time consumption: 0.020917
+step: 19780, loss: 34.482239, time consumption: 0.020830
+step: 19790, loss: 21.157356, time consumption: 0.021195
+step: 19800, loss: 34.916084, time consumption: 0.021207
+=> current epoch:  550
+step: 19810, loss: 28.221832, time consumption: 0.021071
+step: 19820, loss: 32.588142, time consumption: 0.022103
+step: 19830, loss: 29.898441, time consumption: 0.022058
+=> current epoch:  551
+step: 19840, loss: 86.778534, time consumption: 0.020137
+step: 19850, loss: 20.410448, time consumption: 0.020849
+step: 19860, loss: 34.777485, time consumption: 0.022399
+step: 19870, loss: 36.062225, time consumption: 0.022478
+=> current epoch:  552
+step: 19880, loss: 23.091225, time consumption: 0.020591
+step: 19890, loss: 36.137867, time consumption: 0.022163
+step: 19900, loss: 39.738064, time consumption: 0.022365
+=> current epoch:  553
+step: 19910, loss: 52.816418, time consumption: 0.019376
+step: 19920, loss: 22.083862, time consumption: 0.024218
+step: 19930, loss: 8.302498, time consumption: 0.022678
+step: 19940, loss: 19.765186, time consumption: 0.023373
+=> current epoch:  554
+step: 19950, loss: 16.540722, time consumption: 0.020392
+step: 19960, loss: 18.789776, time consumption: 0.022203
+step: 19970, loss: 79.523735, time consumption: 0.022346
+step: 19980, loss: 41.548111, time consumption: 0.023494
+=> current epoch:  555
+step: 19990, loss: 35.039261, time consumption: 0.024202
+step: 20000, loss: 35.653988, time consumption: 0.022305
+Processing a single batch of validation images at step: 20000
+step: 20010, loss: 13.208523, time consumption: 0.665021
+=> current epoch:  556
+step: 20020, loss: 14.065952, time consumption: 0.020506
+step: 20030, loss: 35.885708, time consumption: 0.021257
+step: 20040, loss: 21.540396, time consumption: 0.022188
+step: 20050, loss: 41.348938, time consumption: 0.021767
+=> current epoch:  557
+step: 20060, loss: 14.294155, time consumption: 0.020645
+step: 20070, loss: 49.148621, time consumption: 0.020499
+step: 20080, loss: 44.017059, time consumption: 0.022035
+=> current epoch:  558
+step: 20090, loss: 47.505508, time consumption: 0.020628
+step: 20100, loss: 18.646055, time consumption: 0.020810
+step: 20110, loss: 64.565384, time consumption: 0.022329
+step: 20120, loss: 14.067694, time consumption: 0.021913
+=> current epoch:  559
+step: 20130, loss: 25.875874, time consumption: 0.020310
+step: 20140, loss: 38.814804, time consumption: 0.020608
+step: 20150, loss: 40.201248, time consumption: 0.021160
+step: 20160, loss: 63.004646, time consumption: 0.021840
+=> current epoch:  560
+step: 20170, loss: 25.009781, time consumption: 0.021093
+step: 20180, loss: 50.746429, time consumption: 0.020919
+step: 20190, loss: 54.906879, time consumption: 0.021098
+=> current epoch:  561
+step: 20200, loss: 43.540283, time consumption: 0.020857
+step: 20210, loss: 30.892319, time consumption: 0.020445
+step: 20220, loss: 32.401466, time consumption: 0.021442
+step: 20230, loss: 32.197807, time consumption: 0.021164
+=> current epoch:  562
+step: 20240, loss: 25.241543, time consumption: 0.023199
+step: 20250, loss: 38.358559, time consumption: 0.021595
+step: 20260, loss: 14.425100, time consumption: 0.021218
+=> current epoch:  563
+step: 20270, loss: 12.354299, time consumption: 0.028608
+step: 20280, loss: 41.872738, time consumption: 0.025670
+step: 20290, loss: 14.533997, time consumption: 0.024091
+step: 20300, loss: 47.893600, time consumption: 0.023123
+=> current epoch:  564
+step: 20310, loss: 53.778030, time consumption: 0.022541
+step: 20320, loss: 35.454369, time consumption: 0.021786
+step: 20330, loss: 12.153088, time consumption: 0.022734
+step: 20340, loss: 29.674150, time consumption: 0.022373
+=> current epoch:  565
+step: 20350, loss: 29.676201, time consumption: 0.020969
+step: 20360, loss: 25.031015, time consumption: 0.021014
+step: 20370, loss: 23.194805, time consumption: 0.021923
+=> current epoch:  566
+step: 20380, loss: 46.870605, time consumption: 0.020434
+step: 20390, loss: 20.897568, time consumption: 0.021223
+step: 20400, loss: 14.830843, time consumption: 0.021488
+step: 20410, loss: 82.301941, time consumption: 0.021464
+=> current epoch:  567
+step: 20420, loss: 40.836002, time consumption: 0.022522
+step: 20430, loss: 36.182205, time consumption: 0.021533
+step: 20440, loss: 28.692598, time consumption: 0.022234
+=> current epoch:  568
+step: 20450, loss: 88.141266, time consumption: 0.020953
+step: 20460, loss: 38.190372, time consumption: 0.021369
+step: 20470, loss: 83.641098, time consumption: 0.022521
+step: 20480, loss: 32.182289, time consumption: 0.022693
+=> current epoch:  569
+step: 20490, loss: 23.973610, time consumption: 0.021587
+step: 20500, loss: 40.427505, time consumption: 0.020933
+step: 20510, loss: 35.562378, time consumption: 0.179390
+step: 20520, loss: 11.227190, time consumption: 0.136173
+=> current epoch:  570
+step: 20530, loss: 25.155499, time consumption: 0.024302
+step: 20540, loss: 45.972462, time consumption: 0.022642
+step: 20550, loss: 36.113121, time consumption: 0.021819
+=> current epoch:  571
+step: 20560, loss: 20.196184, time consumption: 0.027620
+step: 20570, loss: 58.216965, time consumption: 0.022441
+step: 20580, loss: 16.219433, time consumption: 0.021685
+step: 20590, loss: 41.365345, time consumption: 0.022121
+=> current epoch:  572
+step: 20600, loss: 41.969700, time consumption: 0.021960
+step: 20610, loss: 30.007507, time consumption: 0.021068
+step: 20620, loss: 25.486111, time consumption: 0.020588
+=> current epoch:  573
+step: 20630, loss: 34.653831, time consumption: 0.020988
+step: 20640, loss: 32.962067, time consumption: 0.021527
+step: 20650, loss: 32.110313, time consumption: 0.021598
+step: 20660, loss: 16.170679, time consumption: 0.022179
+=> current epoch:  574
+step: 20670, loss: 30.328354, time consumption: 0.022311
+step: 20680, loss: 37.616859, time consumption: 0.021221
+step: 20690, loss: 42.740044, time consumption: 0.021003
+step: 20700, loss: 21.926558, time consumption: 0.020839
+=> current epoch:  575
+step: 20710, loss: 26.787357, time consumption: 0.020674
+step: 20720, loss: 33.214096, time consumption: 0.023080
+step: 20730, loss: 38.823368, time consumption: 0.022264
+=> current epoch:  576
+step: 20740, loss: 35.606239, time consumption: 0.019719
+step: 20750, loss: 22.341738, time consumption: 0.021631
+step: 20760, loss: 15.110400, time consumption: 0.021680
+step: 20770, loss: 17.939117, time consumption: 0.021612
+=> current epoch:  577
+step: 20780, loss: 24.940825, time consumption: 0.021175
+step: 20790, loss: 19.960007, time consumption: 0.023766
+step: 20800, loss: 9.358056, time consumption: 0.023254
+=> current epoch:  578
+step: 20810, loss: 11.234073, time consumption: 0.020846
+step: 20820, loss: 15.093861, time consumption: 0.020490
+step: 20830, loss: 55.577309, time consumption: 0.021508
+step: 20840, loss: 29.907858, time consumption: 0.021366
+=> current epoch:  579
+step: 20850, loss: 38.899021, time consumption: 0.019990
+step: 20860, loss: 33.314430, time consumption: 0.020361
+step: 20870, loss: 19.089600, time consumption: 0.020462
+step: 20880, loss: 23.910072, time consumption: 0.020504
+=> current epoch:  580
+step: 20890, loss: 36.215012, time consumption: 0.021262
+step: 20900, loss: 26.184643, time consumption: 0.021096
+step: 20910, loss: 14.060204, time consumption: 0.020934
+=> current epoch:  581
+step: 20920, loss: 27.977646, time consumption: 0.019891
+step: 20930, loss: 35.785507, time consumption: 0.021643
+step: 20940, loss: 17.572155, time consumption: 0.021165
+step: 20950, loss: 18.962898, time consumption: 0.020960
+=> current epoch:  582
+step: 20960, loss: 10.383965, time consumption: 0.025103
+step: 20970, loss: 10.919867, time consumption: 0.026560
+step: 20980, loss: 39.134941, time consumption: 0.024356
+=> current epoch:  583
+step: 20990, loss: 23.685333, time consumption: 0.019781
+step: 21000, loss: 17.144333, time consumption: 0.022867
+step: 21010, loss: 75.904984, time consumption: 0.203744
+step: 21020, loss: 50.780678, time consumption: 0.146424
+=> current epoch:  584
+step: 21030, loss: 46.801472, time consumption: 0.021101
+step: 21040, loss: 14.938843, time consumption: 0.020644
+step: 21050, loss: 49.102516, time consumption: 0.020503
+step: 21060, loss: 47.641129, time consumption: 0.020548
+=> current epoch:  585
+step: 21070, loss: 34.858170, time consumption: 0.021230
+step: 21080, loss: 31.267523, time consumption: 0.022190
+step: 21090, loss: 74.942650, time consumption: 0.021961
+=> current epoch:  586
+step: 21100, loss: 19.209295, time consumption: 0.020897
+step: 21110, loss: 26.692299, time consumption: 0.020693
+step: 21120, loss: 31.271900, time consumption: 0.020666
+step: 21130, loss: 15.413088, time consumption: 0.020988
+=> current epoch:  587
+step: 21140, loss: 15.583982, time consumption: 0.023584
+step: 21150, loss: 31.623955, time consumption: 0.025415
+step: 21160, loss: 35.221794, time consumption: 0.023996
+=> current epoch:  588
+step: 21170, loss: 16.848173, time consumption: 0.019823
+step: 21180, loss: 17.916277, time consumption: 0.022161
+step: 21190, loss: 16.204296, time consumption: 0.021524
+step: 21200, loss: 13.864270, time consumption: 0.022127
+=> current epoch:  589
+step: 21210, loss: 22.406790, time consumption: 0.026034
+step: 21220, loss: 24.671528, time consumption: 0.023434
+step: 21230, loss: 17.871723, time consumption: 0.023398
+step: 21240, loss: 20.011185, time consumption: 0.023001
+=> current epoch:  590
+step: 21250, loss: 30.722496, time consumption: 0.020806
+step: 21260, loss: 57.127666, time consumption: 0.022874
+step: 21270, loss: 16.459648, time consumption: 0.022039
+=> current epoch:  591
+step: 21280, loss: 19.976923, time consumption: 0.020118
+step: 21290, loss: 38.099197, time consumption: 0.022581
+step: 21300, loss: 48.156765, time consumption: 0.021766
+step: 21310, loss: 51.237518, time consumption: 0.021591
+=> current epoch:  592
+step: 21320, loss: 35.464882, time consumption: 0.021372
+step: 21330, loss: 14.366162, time consumption: 0.020809
+step: 21340, loss: 19.594147, time consumption: 0.021515
+=> current epoch:  593
+step: 21350, loss: 23.333694, time consumption: 0.026173
+step: 21360, loss: 41.862720, time consumption: 0.023148
+step: 21370, loss: 17.560598, time consumption: 0.022114
+step: 21380, loss: 23.336372, time consumption: 0.021962
+=> current epoch:  594
+step: 21390, loss: 19.173637, time consumption: 0.029585
+step: 21400, loss: 28.511696, time consumption: 0.024123
+step: 21410, loss: 22.024729, time consumption: 0.022691
+step: 21420, loss: 35.445557, time consumption: 0.021985
+=> current epoch:  595
+step: 21430, loss: 42.098846, time consumption: 0.023118
+step: 21440, loss: 36.433037, time consumption: 0.026241
+step: 21450, loss: 31.152254, time consumption: 0.025149
+=> current epoch:  596
+step: 21460, loss: 40.503197, time consumption: 0.020373
+step: 21470, loss: 43.566780, time consumption: 0.020464
+step: 21480, loss: 28.486679, time consumption: 0.021144
+step: 21490, loss: 38.186077, time consumption: 0.021411
+=> current epoch:  597
+step: 21500, loss: 24.291122, time consumption: 0.020073
+step: 21510, loss: 29.437473, time consumption: 0.241868
+step: 21520, loss: 15.487787, time consumption: 0.162934
+=> current epoch:  598
+step: 21530, loss: 39.052280, time consumption: 0.021362
+step: 21540, loss: 51.114620, time consumption: 0.023081
+step: 21550, loss: 14.386129, time consumption: 0.021849
+step: 21560, loss: 25.031590, time consumption: 0.021488
+=> current epoch:  599
+step: 21570, loss: 52.911850, time consumption: 0.021255
+step: 21580, loss: 84.166824, time consumption: 0.023463
+step: 21590, loss: 23.064377, time consumption: 0.023169
+step: 21600, loss: 26.020298, time consumption: 0.022628
+=> current epoch:  600
+step: 21610, loss: 21.403599, time consumption: 0.021465
+step: 21620, loss: 42.587543, time consumption: 0.023615
+step: 21630, loss: 27.744036, time consumption: 0.022793
+=> current epoch:  601
+step: 21640, loss: 29.629671, time consumption: 0.023988
+step: 21650, loss: 7.799706, time consumption: 0.021713
+step: 21660, loss: 29.745735, time consumption: 0.021022
+step: 21670, loss: 20.314178, time consumption: 0.021693
+=> current epoch:  602
+step: 21680, loss: 14.302843, time consumption: 0.020818
+step: 21690, loss: 42.774170, time consumption: 0.022737
+step: 21700, loss: 45.323761, time consumption: 0.023240
+=> current epoch:  603
+step: 21710, loss: 8.916454, time consumption: 0.019875
+step: 21720, loss: 13.412096, time consumption: 0.021943
+step: 21730, loss: 34.161858, time consumption: 0.024173
+step: 21740, loss: 14.744761, time consumption: 0.023355
+=> current epoch:  604
+step: 21750, loss: 79.882599, time consumption: 0.019541
+step: 21760, loss: 28.380566, time consumption: 0.020683
+step: 21770, loss: 26.120955, time consumption: 0.023859
+step: 21780, loss: 24.255184, time consumption: 0.023466
+=> current epoch:  605
+step: 21790, loss: 16.260996, time consumption: 0.021841
+step: 21800, loss: 12.143716, time consumption: 0.021322
+step: 21810, loss: 17.165646, time consumption: 0.021071
+=> current epoch:  606
+step: 21820, loss: 81.883255, time consumption: 0.020095
+step: 21830, loss: 55.256752, time consumption: 0.020815
+step: 21840, loss: 25.630970, time consumption: 0.022904
+step: 21850, loss: 23.462326, time consumption: 0.022575
+=> current epoch:  607
+step: 21860, loss: 32.001011, time consumption: 0.021502
+step: 21870, loss: 23.439747, time consumption: 0.025217
+step: 21880, loss: 36.715073, time consumption: 0.025119
+=> current epoch:  608
+step: 21890, loss: 18.996069, time consumption: 0.020870
+step: 21900, loss: 16.132065, time consumption: 0.022028
+step: 21910, loss: 8.752029, time consumption: 0.022012
+step: 21920, loss: 54.256088, time consumption: 0.021709
+=> current epoch:  609
+step: 21930, loss: 69.086380, time consumption: 0.022605
+step: 21940, loss: 23.491320, time consumption: 0.021830
+step: 21950, loss: 21.706381, time consumption: 0.022475
+step: 21960, loss: 74.984680, time consumption: 0.023189
+=> current epoch:  610
+step: 21970, loss: 25.359104, time consumption: 0.021196
+step: 21980, loss: 35.024109, time consumption: 0.021796
+step: 21990, loss: 16.099056, time consumption: 0.021819
+=> current epoch:  611
+step: 22000, loss: 15.897915, time consumption: 0.021082
+step: 22010, loss: 26.674934, time consumption: 0.301335
+step: 22020, loss: 35.475929, time consumption: 0.184952
+step: 22030, loss: 27.279879, time consumption: 0.136959
+=> current epoch:  612
+step: 22040, loss: 22.652531, time consumption: 0.021300
+step: 22050, loss: 11.604652, time consumption: 0.020634
+step: 22060, loss: 16.076881, time consumption: 0.022391
+=> current epoch:  613
+step: 22070, loss: 13.265529, time consumption: 0.020617
+step: 22080, loss: 11.056892, time consumption: 0.020641
+step: 22090, loss: 49.178337, time consumption: 0.021126
+step: 22100, loss: 45.249367, time consumption: 0.021476
+=> current epoch:  614
+step: 22110, loss: 31.514711, time consumption: 0.021245
+step: 22120, loss: 69.134140, time consumption: 0.021538
+step: 22130, loss: 20.310658, time consumption: 0.021175
+step: 22140, loss: 36.241554, time consumption: 0.021372
+=> current epoch:  615
+step: 22150, loss: 49.787712, time consumption: 0.022461
+step: 22160, loss: 9.256927, time consumption: 0.022463
+step: 22170, loss: 40.701897, time consumption: 0.022939
+=> current epoch:  616
+step: 22180, loss: 61.981873, time consumption: 0.028705
+step: 22190, loss: 26.338778, time consumption: 0.022879
+step: 22200, loss: 58.123199, time consumption: 0.021842
+step: 22210, loss: 25.399313, time consumption: 0.021899
+=> current epoch:  617
+step: 22220, loss: 48.405075, time consumption: 0.023454
+step: 22230, loss: 11.341270, time consumption: 0.024251
+step: 22240, loss: 44.134037, time consumption: 0.024100
+=> current epoch:  618
+step: 22250, loss: 31.364933, time consumption: 0.021275
+step: 22260, loss: 16.934637, time consumption: 0.020896
+step: 22270, loss: 28.668770, time consumption: 0.021934
+step: 22280, loss: 8.968326, time consumption: 0.021987
+=> current epoch:  619
+step: 22290, loss: 21.962910, time consumption: 0.022520
+step: 22300, loss: 33.977474, time consumption: 0.021517
+step: 22310, loss: 11.699666, time consumption: 0.021364
+step: 22320, loss: 33.938141, time consumption: 0.021643
+=> current epoch:  620
+step: 22330, loss: 35.312225, time consumption: 0.023240
+step: 22340, loss: 26.414963, time consumption: 0.022746
+step: 22350, loss: 11.593278, time consumption: 0.022395
+=> current epoch:  621
+step: 22360, loss: 18.932066, time consumption: 0.021325
+step: 22370, loss: 12.516952, time consumption: 0.022162
+step: 22380, loss: 36.851967, time consumption: 0.022612
+step: 22390, loss: 26.923143, time consumption: 0.022248
+=> current epoch:  622
+step: 22400, loss: 15.187089, time consumption: 0.022029
+step: 22410, loss: 9.877346, time consumption: 0.022037
+step: 22420, loss: 38.593060, time consumption: 0.021459
+=> current epoch:  623
+step: 22430, loss: 7.293526, time consumption: 0.019732
+step: 22440, loss: 21.377386, time consumption: 0.021367
+step: 22450, loss: 41.153046, time consumption: 0.021020
+step: 22460, loss: 19.878445, time consumption: 0.022167
+=> current epoch:  624
+step: 22470, loss: 24.924044, time consumption: 0.020587
+step: 22480, loss: 22.356541, time consumption: 0.020561
+step: 22490, loss: 38.043053, time consumption: 0.021205
+step: 22500, loss: 12.143492, time consumption: 0.021890
+=> current epoch:  625
+step: 22510, loss: 16.378605, time consumption: 0.024978
+step: 22520, loss: 24.928753, time consumption: 0.023188
+step: 22530, loss: 18.394636, time consumption: 0.022926
+=> current epoch:  626
+step: 22540, loss: 40.129986, time consumption: 0.020480
+step: 22550, loss: 6.069178, time consumption: 0.020571
+step: 22560, loss: 10.684419, time consumption: 0.021326
+step: 22570, loss: 16.296509, time consumption: 0.023036
+=> current epoch:  627
+step: 22580, loss: 18.814779, time consumption: 0.020380
+step: 22590, loss: 17.769619, time consumption: 0.020971
+step: 22600, loss: 25.080227, time consumption: 0.021314
+=> current epoch:  628
+step: 22610, loss: 17.689991, time consumption: 0.029335
+step: 22620, loss: 11.655989, time consumption: 0.022488
+step: 22630, loss: 51.063393, time consumption: 0.022166
+step: 22640, loss: 36.779343, time consumption: 0.023591
+=> current epoch:  629
+step: 22650, loss: 39.917332, time consumption: 0.022249
+step: 22660, loss: 20.741875, time consumption: 0.021261
+step: 22670, loss: 36.810638, time consumption: 0.021968
+step: 22680, loss: 12.419495, time consumption: 0.022348
+=> current epoch:  630
+step: 22690, loss: 29.403439, time consumption: 0.024938
+step: 22700, loss: 31.028896, time consumption: 0.022812
+step: 22710, loss: 55.936501, time consumption: 0.022208
+=> current epoch:  631
+step: 22720, loss: 27.986176, time consumption: 0.019776
+step: 22730, loss: 52.389565, time consumption: 0.020962
+step: 22740, loss: 35.579784, time consumption: 0.021553
+step: 22750, loss: 21.019228, time consumption: 0.021820
+=> current epoch:  632
+step: 22760, loss: 23.360756, time consumption: 0.021131
+step: 22770, loss: 39.770729, time consumption: 0.021565
+step: 22780, loss: 32.911537, time consumption: 0.022241
+=> current epoch:  633
+step: 22790, loss: 41.363503, time consumption: 0.020964
+step: 22800, loss: 13.697965, time consumption: 0.022331
+step: 22810, loss: 6.330890, time consumption: 0.022256
+step: 22820, loss: 31.809795, time consumption: 0.021645
+=> current epoch:  634
+step: 22830, loss: 12.359896, time consumption: 0.020537
+step: 22840, loss: 38.372879, time consumption: 0.020463
+step: 22850, loss: 42.652870, time consumption: 0.020939
+step: 22860, loss: 43.567173, time consumption: 0.021161
+=> current epoch:  635
+step: 22870, loss: 22.575745, time consumption: 0.019904
+step: 22880, loss: 21.405170, time consumption: 0.021289
+step: 22890, loss: 7.805338, time consumption: 0.022253
+=> current epoch:  636
+step: 22900, loss: 40.642216, time consumption: 0.020346
+step: 22910, loss: 25.956615, time consumption: 0.020290
+step: 22920, loss: 16.737888, time consumption: 0.020441
+step: 22930, loss: 5.945983, time consumption: 0.020487
+=> current epoch:  637
+step: 22940, loss: 41.072182, time consumption: 0.020492
+step: 22950, loss: 34.200745, time consumption: 0.023986
+step: 22960, loss: 30.358114, time consumption: 0.023670
+=> current epoch:  638
+step: 22970, loss: 14.530883, time consumption: 0.025832
+step: 22980, loss: 30.976206, time consumption: 0.022062
+step: 22990, loss: 69.529358, time consumption: 0.021579
+step: 23000, loss: 22.880905, time consumption: 0.021599
+=> current epoch:  639
+step: 23010, loss: 33.997108, time consumption: 0.020758
+step: 23020, loss: 12.551049, time consumption: 0.022577
+step: 23030, loss: 21.768442, time consumption: 0.023307
+step: 23040, loss: 38.000278, time consumption: 0.022582
+=> current epoch:  640
+step: 23050, loss: 24.498278, time consumption: 0.022047
+step: 23060, loss: 28.920000, time consumption: 0.021542
+step: 23070, loss: 27.808258, time consumption: 0.021577
+=> current epoch:  641
+step: 23080, loss: 15.871911, time consumption: 0.021730
+step: 23090, loss: 45.170387, time consumption: 0.022508
+step: 23100, loss: 47.349922, time consumption: 0.022106
+step: 23110, loss: 18.438700, time consumption: 0.021947
+=> current epoch:  642
+step: 23120, loss: 18.923216, time consumption: 0.020138
+step: 23130, loss: 43.878246, time consumption: 0.020821
+step: 23140, loss: 7.399402, time consumption: 0.021852
+=> current epoch:  643
+step: 23150, loss: 13.528104, time consumption: 0.019948
+step: 23160, loss: 15.475570, time consumption: 0.021418
+step: 23170, loss: 35.271137, time consumption: 0.020945
+step: 23180, loss: 18.693712, time consumption: 0.022193
+=> current epoch:  644
+step: 23190, loss: 9.811798, time consumption: 0.023039
+step: 23200, loss: 19.841249, time consumption: 0.023286
+step: 23210, loss: 36.333084, time consumption: 0.022060
+step: 23220, loss: 20.304888, time consumption: 0.021833
+=> current epoch:  645
+step: 23230, loss: 30.070505, time consumption: 0.019693
+step: 23240, loss: 21.399254, time consumption: 0.019980
+step: 23250, loss: 31.633978, time consumption: 0.019845
+=> current epoch:  646
+step: 23260, loss: 11.120913, time consumption: 0.021086
+step: 23270, loss: 13.628544, time consumption: 0.020484
+step: 23280, loss: 32.132019, time consumption: 0.020154
+step: 23290, loss: 12.691244, time consumption: 0.020025
+=> current epoch:  647
+step: 23300, loss: 8.006457, time consumption: 0.021785
+step: 23310, loss: 7.256853, time consumption: 0.020641
+step: 23320, loss: 12.053578, time consumption: 0.020413
+=> current epoch:  648
+step: 23330, loss: 71.891045, time consumption: 0.021367
+step: 23340, loss: 23.896214, time consumption: 0.020470
+step: 23350, loss: 56.715668, time consumption: 0.020079
+step: 23360, loss: 74.252449, time consumption: 0.020114
+=> current epoch:  649
+step: 23370, loss: 18.554348, time consumption: 0.020442
+step: 23380, loss: 108.351440, time consumption: 0.020500
+step: 23390, loss: 24.244034, time consumption: 0.020297
+step: 23400, loss: 25.009247, time consumption: 0.020358
+=> current epoch:  650
+step: 23410, loss: 51.279335, time consumption: 0.019665
+step: 23420, loss: 54.250290, time consumption: 0.019842
+step: 23430, loss: 15.064289, time consumption: 0.020343
+=> current epoch:  651
+step: 23440, loss: 27.613392, time consumption: 0.019976
+step: 23450, loss: 24.083347, time consumption: 0.020195
+step: 23460, loss: 15.944578, time consumption: 0.020313
+step: 23470, loss: 30.536751, time consumption: 0.020676
+=> current epoch:  652
+step: 23480, loss: 16.562889, time consumption: 0.020037
+step: 23490, loss: 51.588356, time consumption: 0.020060
+step: 23500, loss: 11.804331, time consumption: 0.019997
+=> current epoch:  653
+step: 23510, loss: 34.395779, time consumption: 0.020310
+step: 23520, loss: 29.357323, time consumption: 0.023575
+step: 23530, loss: 12.887403, time consumption: 0.022083
+step: 23540, loss: 19.659145, time consumption: 0.021950
+=> current epoch:  654
+step: 23550, loss: 16.287006, time consumption: 0.023409
+step: 23560, loss: 22.482441, time consumption: 0.021448
+step: 23570, loss: 23.552750, time consumption: 0.020737
+step: 23580, loss: 21.987272, time consumption: 0.020581
+=> current epoch:  655
+step: 23590, loss: 25.751429, time consumption: 0.022780
+step: 23600, loss: 10.811871, time consumption: 0.021403
+step: 23610, loss: 33.836281, time consumption: 0.021104
+=> current epoch:  656
+step: 23620, loss: 14.675194, time consumption: 0.025584
+step: 23630, loss: 25.746889, time consumption: 0.021776
+step: 23640, loss: 23.413620, time consumption: 0.021225
+step: 23650, loss: 63.426491, time consumption: 0.020904
+=> current epoch:  657
+step: 23660, loss: 20.715351, time consumption: 0.020563
+step: 23670, loss: 36.171474, time consumption: 0.020411
+step: 23680, loss: 21.894087, time consumption: 0.020204
+=> current epoch:  658
+step: 23690, loss: 22.131151, time consumption: 0.019963
+step: 23700, loss: 11.669400, time consumption: 0.020083
+step: 23710, loss: 11.738751, time consumption: 0.020070
+step: 23720, loss: 83.618172, time consumption: 0.020359
+=> current epoch:  659
+step: 23730, loss: 64.216843, time consumption: 0.019875
+step: 23740, loss: 13.515424, time consumption: 0.020003
+step: 23750, loss: 21.368214, time consumption: 0.020466
+step: 23760, loss: 16.916403, time consumption: 0.020354
+=> current epoch:  660
+step: 23770, loss: 21.764002, time consumption: 0.020287
+step: 23780, loss: 60.300224, time consumption: 0.021083
+step: 23790, loss: 26.787403, time consumption: 0.021141
+=> current epoch:  661
+step: 23800, loss: 33.567310, time consumption: 0.020817
+step: 23810, loss: 10.772724, time consumption: 0.020598
+step: 23820, loss: 19.737358, time consumption: 0.020305
+step: 23830, loss: 16.299894, time consumption: 0.020727
+=> current epoch:  662
+step: 23840, loss: 80.739494, time consumption: 0.019709
+step: 23850, loss: 33.296898, time consumption: 0.019998
+step: 23860, loss: 30.292416, time consumption: 0.019999
+=> current epoch:  663
+step: 23870, loss: 10.651478, time consumption: 0.021029
+step: 23880, loss: 12.572986, time consumption: 0.019964
+step: 23890, loss: 21.235485, time consumption: 0.020092
+step: 23900, loss: 23.836849, time consumption: 0.020426
+=> current epoch:  664
+step: 23910, loss: 20.362843, time consumption: 0.020168
+step: 23920, loss: 19.170677, time consumption: 0.020282
+step: 23930, loss: 13.553073, time consumption: 0.020334
+step: 23940, loss: 18.389717, time consumption: 0.020398
+=> current epoch:  665
+step: 23950, loss: 10.815377, time consumption: 0.020136
+step: 23960, loss: 79.424225, time consumption: 0.019959
+step: 23970, loss: 16.623016, time consumption: 0.019902
+=> current epoch:  666
+step: 23980, loss: 19.176567, time consumption: 0.019991
+step: 23990, loss: 49.264885, time consumption: 0.019919
+step: 24000, loss: 28.547192, time consumption: 0.019968
+step: 24010, loss: 15.084907, time consumption: 0.135021
+=> current epoch:  667
+step: 24020, loss: 52.066959, time consumption: 0.021450
+step: 24030, loss: 25.406750, time consumption: 0.021444
+step: 24040, loss: 11.057606, time consumption: 0.020900
+=> current epoch:  668
+step: 24050, loss: 19.810680, time consumption: 0.020534
+step: 24060, loss: 18.118044, time consumption: 0.020281
+step: 24070, loss: 21.283804, time consumption: 0.020141
+step: 24080, loss: 11.291079, time consumption: 0.020788
+=> current epoch:  669
+step: 24090, loss: 15.823883, time consumption: 0.020220
+step: 24100, loss: 16.426144, time consumption: 0.020213
+step: 24110, loss: 91.591492, time consumption: 0.020072
+step: 24120, loss: 43.162056, time consumption: 0.020127
+=> current epoch:  670
+step: 24130, loss: 46.321190, time consumption: 0.020348
+step: 24140, loss: 16.701950, time consumption: 0.019935
+step: 24150, loss: 12.312418, time consumption: 0.020612
+=> current epoch:  671
+step: 24160, loss: 22.833241, time consumption: 0.019949
+step: 24170, loss: 10.867001, time consumption: 0.020311
+step: 24180, loss: 17.253532, time consumption: 0.020347
+step: 24190, loss: 8.187260, time consumption: 0.020326
+=> current epoch:  672
+step: 24200, loss: 22.458237, time consumption: 0.020316
+step: 24210, loss: 30.397106, time consumption: 0.020339
+step: 24220, loss: 36.510628, time consumption: 0.020139
+=> current epoch:  673
+step: 24230, loss: 22.164894, time consumption: 0.027027
+step: 24240, loss: 9.673933, time consumption: 0.022807
+step: 24250, loss: 20.570854, time consumption: 0.021875
+step: 24260, loss: 30.122194, time consumption: 0.021350
+=> current epoch:  674
+step: 24270, loss: 44.267159, time consumption: 0.022396
+step: 24280, loss: 14.260364, time consumption: 0.020805
+step: 24290, loss: 18.635841, time consumption: 0.020535
+step: 24300, loss: 15.295404, time consumption: 0.020428
+=> current epoch:  675
+step: 24310, loss: 7.537368, time consumption: 0.020073
+step: 24320, loss: 19.839258, time consumption: 0.019860
+step: 24330, loss: 22.209974, time consumption: 0.019988
+=> current epoch:  676
+step: 24340, loss: 41.157799, time consumption: 0.020832
+step: 24350, loss: 11.357037, time consumption: 0.020267
+step: 24360, loss: 28.218048, time consumption: 0.020311
+step: 24370, loss: 29.994471, time consumption: 0.020083
+=> current epoch:  677
+step: 24380, loss: 11.329140, time consumption: 0.021126
+step: 24390, loss: 10.789658, time consumption: 0.020414
+step: 24400, loss: 47.030907, time consumption: 0.020193
+=> current epoch:  678
+step: 24410, loss: 20.505753, time consumption: 0.029786
+step: 24420, loss: 25.701164, time consumption: 0.021460
+step: 24430, loss: 17.476675, time consumption: 0.020631
+step: 24440, loss: 68.499725, time consumption: 0.020528
+=> current epoch:  679
+step: 24450, loss: 19.556494, time consumption: 0.025242
+step: 24460, loss: 9.152016, time consumption: 0.021769
+step: 24470, loss: 18.937569, time consumption: 0.021115
+step: 24480, loss: 21.257648, time consumption: 0.020692
+=> current epoch:  680
+step: 24490, loss: 22.146694, time consumption: 0.022056
+step: 24500, loss: 25.609642, time consumption: 0.021179
+step: 24510, loss: 20.345650, time consumption: 0.153503
+=> current epoch:  681
+step: 24520, loss: 51.816467, time consumption: 0.020017
+step: 24530, loss: 13.502014, time consumption: 0.019699
+step: 24540, loss: 29.859390, time consumption: 0.020528
+step: 24550, loss: 15.115026, time consumption: 0.020771
+=> current epoch:  682
+step: 24560, loss: 42.010498, time consumption: 0.019586
+step: 24570, loss: 20.144875, time consumption: 0.020492
+step: 24580, loss: 19.944912, time consumption: 0.020404
+=> current epoch:  683
+step: 24590, loss: 7.078709, time consumption: 0.020395
+step: 24600, loss: 8.780231, time consumption: 0.023328
+step: 24610, loss: 6.916804, time consumption: 0.021716
+step: 24620, loss: 22.853394, time consumption: 0.021174
+=> current epoch:  684
+step: 24630, loss: 25.106298, time consumption: 0.019891
+step: 24640, loss: 35.584595, time consumption: 0.019809
+step: 24650, loss: 15.211668, time consumption: 0.020054
+step: 24660, loss: 14.979200, time consumption: 0.020680
+=> current epoch:  685
+step: 24670, loss: 17.206795, time consumption: 0.019753
+step: 24680, loss: 32.629375, time consumption: 0.019942
+step: 24690, loss: 22.150543, time consumption: 0.021200
+=> current epoch:  686
+step: 24700, loss: 29.055801, time consumption: 0.020477
+step: 24710, loss: 18.449612, time consumption: 0.020461
+step: 24720, loss: 66.833710, time consumption: 0.020250
+step: 24730, loss: 23.982023, time consumption: 0.020189
+=> current epoch:  687
+step: 24740, loss: 25.030825, time consumption: 0.020089
+step: 24750, loss: 54.386822, time consumption: 0.020048
+step: 24760, loss: 28.390011, time consumption: 0.019948
+=> current epoch:  688
+step: 24770, loss: 22.467278, time consumption: 0.020728
+step: 24780, loss: 12.925832, time consumption: 0.020655
+step: 24790, loss: 29.139420, time consumption: 0.020212
+step: 24800, loss: 26.908436, time consumption: 0.020222
+=> current epoch:  689
+step: 24810, loss: 40.449135, time consumption: 0.020230
+step: 24820, loss: 19.253426, time consumption: 0.019942
+step: 24830, loss: 28.444864, time consumption: 0.019997
+step: 24840, loss: 29.677982, time consumption: 0.020072
+=> current epoch:  690
+step: 24850, loss: 25.597755, time consumption: 0.020364
+step: 24860, loss: 16.921066, time consumption: 0.021053
+step: 24870, loss: 18.559263, time consumption: 0.021143
+=> current epoch:  691
+step: 24880, loss: 25.817991, time consumption: 0.021143
+step: 24890, loss: 21.161585, time consumption: 0.019899
+step: 24900, loss: 21.956301, time consumption: 0.019896
+step: 24910, loss: 50.390358, time consumption: 0.020060
+=> current epoch:  692
+step: 24920, loss: 11.333431, time consumption: 0.019965
+step: 24930, loss: 19.526154, time consumption: 0.020744
+step: 24940, loss: 19.462723, time consumption: 0.020408
+=> current epoch:  693
+step: 24950, loss: 18.410471, time consumption: 0.020257
+step: 24960, loss: 26.075924, time consumption: 0.021111
+step: 24970, loss: 29.796013, time consumption: 0.020653
+step: 24980, loss: 33.818298, time consumption: 0.021188
+=> current epoch:  694
+step: 24990, loss: 14.899189, time consumption: 0.019614
+step: 25000, loss: 18.298683, time consumption: 0.020446
+step: 25010, loss: 24.189474, time consumption: 0.166109
+step: 25020, loss: 28.559643, time consumption: 0.125646
+=> current epoch:  695
+step: 25030, loss: 36.105965, time consumption: 0.019545
+step: 25040, loss: 27.074192, time consumption: 0.019899
+step: 25050, loss: 26.104568, time consumption: 0.020263
+=> current epoch:  696
+step: 25060, loss: 19.621464, time consumption: 0.019750
+step: 25070, loss: 16.353722, time consumption: 0.019741
+step: 25080, loss: 36.134865, time consumption: 0.020546
+step: 25090, loss: 23.610195, time consumption: 0.020417
+=> current epoch:  697
+step: 25100, loss: 8.064047, time consumption: 0.020051
+step: 25110, loss: 11.986671, time consumption: 0.019905
+step: 25120, loss: 56.373245, time consumption: 0.019974
+=> current epoch:  698
+step: 25130, loss: 11.857058, time consumption: 0.019807
+step: 25140, loss: 21.915257, time consumption: 0.019855
+step: 25150, loss: 10.856139, time consumption: 0.019857
+step: 25160, loss: 18.031836, time consumption: 0.019919
+=> current epoch:  699
+step: 25170, loss: 20.676918, time consumption: 0.020129
+step: 25180, loss: 39.324135, time consumption: 0.020127
+step: 25190, loss: 76.630699, time consumption: 0.021159
+step: 25200, loss: 19.980556, time consumption: 0.021116
