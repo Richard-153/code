@@ -1,4 +1,4 @@
-# ReadMe
+# README
 ## Important Notice
 
 *   **Hardware Requirement:** This project is specifically designed to run on a machine with **three GPUs**. The logic relies on parallel processing across three separate devices and will not work on a single GPU setup.
